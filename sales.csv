@@ -1,0 +1,1801 @@
+date,product_id,product_name,category,price,units_sold,customer_id,stock
+2026-04-16,P100,Wireless Mouse,Accessories,799,38,C1004,109
+2026-04-16,P101,Mechanical Keyboard,Accessories,2499,17,C1024,92
+2026-04-16,P102,USB-C Hub,Accessories,1599,23,C1014,85
+2026-04-16,P103,Laptop Stand,Office,1299,19,C1005,96
+2026-04-16,P104,Noise Cancelling Headphones,Audio,5999,14,C1004,62
+2026-04-16,P105,Bluetooth Speaker,Audio,2999,32,C1015,58
+2026-04-16,P106,Webcam HD,Accessories,1899,25,C1004,75
+2026-04-16,P107,Desk Lamp,Office,999,39,C1015,108
+2026-04-16,P108,Power Bank,Mobile,1799,16,C1019,106
+2026-04-16,P109,Phone Case,Mobile,499,57,C1037,200
+2026-04-17,P100,Wireless Mouse,Accessories,799,40,C1012,172
+2026-04-17,P101,Mechanical Keyboard,Accessories,2499,20,C1013,94
+2026-04-17,P102,USB-C Hub,Accessories,1599,20,C1005,69
+2026-04-17,P103,Laptop Stand,Office,1299,37,C1032,109
+2026-04-17,P104,Noise Cancelling Headphones,Audio,5999,24,C1021,57
+2026-04-17,P105,Bluetooth Speaker,Audio,2999,26,C1024,100
+2026-04-17,P106,Webcam HD,Accessories,1899,20,C1016,85
+2026-04-17,P107,Desk Lamp,Office,999,25,C1032,100
+2026-04-17,P108,Power Bank,Mobile,1799,39,C1019,99
+2026-04-17,P109,Phone Case,Mobile,499,73,C1033,139
+2026-04-18,P100,Wireless Mouse,Accessories,799,53,C1010,166
+2026-04-18,P101,Mechanical Keyboard,Accessories,2499,50,C1005,85
+2026-04-18,P102,USB-C Hub,Accessories,1599,33,C1021,70
+2026-04-18,P103,Laptop Stand,Office,1299,35,C1032,91
+2026-04-18,P104,Noise Cancelling Headphones,Audio,5999,26,C1006,58
+2026-04-18,P105,Bluetooth Speaker,Audio,2999,44,C1005,77
+2026-04-18,P106,Webcam HD,Accessories,1899,17,C1037,80
+2026-04-18,P107,Desk Lamp,Office,999,67,C1019,141
+2026-04-18,P108,Power Bank,Mobile,1799,41,C1023,108
+2026-04-18,P109,Phone Case,Mobile,499,44,C1011,190
+2026-04-19,P100,Wireless Mouse,Accessories,799,59,C1014,141
+2026-04-19,P101,Mechanical Keyboard,Accessories,2499,42,C1016,67
+2026-04-19,P102,USB-C Hub,Accessories,1599,23,C1032,86
+2026-04-19,P103,Laptop Stand,Office,1299,24,C1036,97
+2026-04-19,P104,Noise Cancelling Headphones,Audio,5999,18,C1028,45
+2026-04-19,P105,Bluetooth Speaker,Audio,2999,40,C1027,67
+2026-04-19,P106,Webcam HD,Accessories,1899,39,C1025,79
+2026-04-19,P107,Desk Lamp,Office,999,62,C1012,89
+2026-04-19,P108,Power Bank,Mobile,1799,22,C1001,95
+2026-04-19,P109,Phone Case,Mobile,499,73,C1017,206
+2026-04-20,P100,Wireless Mouse,Accessories,799,33,C1035,108
+2026-04-20,P101,Mechanical Keyboard,Accessories,2499,23,C1009,93
+2026-04-20,P102,USB-C Hub,Accessories,1599,23,C1040,68
+2026-04-20,P103,Laptop Stand,Office,1299,34,C1030,117
+2026-04-20,P104,Noise Cancelling Headphones,Audio,5999,24,C1036,71
+2026-04-20,P105,Bluetooth Speaker,Audio,2999,21,C1007,73
+2026-04-20,P106,Webcam HD,Accessories,1899,20,C1013,66
+2026-04-20,P107,Desk Lamp,Office,999,21,C1011,93
+2026-04-20,P108,Power Bank,Mobile,1799,16,C1007,92
+2026-04-20,P109,Phone Case,Mobile,499,31,C1007,149
+2026-04-21,P100,Wireless Mouse,Accessories,799,51,C1005,153
+2026-04-21,P101,Mechanical Keyboard,Accessories,2499,31,C1010,96
+2026-04-21,P102,USB-C Hub,Accessories,1599,19,C1039,87
+2026-04-21,P103,Laptop Stand,Office,1299,23,C1032,75
+2026-04-21,P104,Noise Cancelling Headphones,Audio,5999,22,C1031,58
+2026-04-21,P105,Bluetooth Speaker,Audio,2999,17,C1022,60
+2026-04-21,P106,Webcam HD,Accessories,1899,22,C1011,70
+2026-04-21,P107,Desk Lamp,Office,999,30,C1034,93
+2026-04-21,P108,Power Bank,Mobile,1799,19,C1002,97
+2026-04-21,P109,Phone Case,Mobile,499,61,C1006,168
+2026-04-22,P100,Wireless Mouse,Accessories,799,46,C1024,119
+2026-04-22,P101,Mechanical Keyboard,Accessories,2499,34,C1015,81
+2026-04-22,P102,USB-C Hub,Accessories,1599,19,C1022,80
+2026-04-22,P103,Laptop Stand,Office,1299,31,C1013,108
+2026-04-22,P104,Noise Cancelling Headphones,Audio,5999,21,C1015,72
+2026-04-22,P105,Bluetooth Speaker,Audio,2999,16,C1002,78
+2026-04-22,P106,Webcam HD,Accessories,1899,28,C1031,85
+2026-04-22,P107,Desk Lamp,Office,999,25,C1023,131
+2026-04-22,P108,Power Bank,Mobile,1799,22,C1023,111
+2026-04-22,P109,Phone Case,Mobile,499,75,C1015,177
+2026-04-23,P100,Wireless Mouse,Accessories,799,26,C1022,139
+2026-04-23,P101,Mechanical Keyboard,Accessories,2499,19,C1040,97
+2026-04-23,P102,USB-C Hub,Accessories,1599,25,C1023,66
+2026-04-23,P103,Laptop Stand,Office,1299,36,C1008,73
+2026-04-23,P104,Noise Cancelling Headphones,Audio,5999,23,C1013,71
+2026-04-23,P105,Bluetooth Speaker,Audio,2999,22,C1022,61
+2026-04-23,P106,Webcam HD,Accessories,1899,13,C1026,92
+2026-04-23,P107,Desk Lamp,Office,999,32,C1006,135
+2026-04-23,P108,Power Bank,Mobile,1799,29,C1009,67
+2026-04-23,P109,Phone Case,Mobile,499,31,C1030,206
+2026-04-24,P100,Wireless Mouse,Accessories,799,55,C1039,108
+2026-04-24,P101,Mechanical Keyboard,Accessories,2499,39,C1023,99
+2026-04-24,P102,USB-C Hub,Accessories,1599,14,C1002,69
+2026-04-24,P103,Laptop Stand,Office,1299,17,C1007,133
+2026-04-24,P104,Noise Cancelling Headphones,Audio,5999,19,C1028,77
+2026-04-24,P105,Bluetooth Speaker,Audio,2999,35,C1014,62
+2026-04-24,P106,Webcam HD,Accessories,1899,12,C1033,57
+2026-04-24,P107,Desk Lamp,Office,999,27,C1017,122
+2026-04-24,P108,Power Bank,Mobile,1799,27,C1004,105
+2026-04-24,P109,Phone Case,Mobile,499,81,C1030,175
+2026-04-25,P100,Wireless Mouse,Accessories,799,58,C1034,172
+2026-04-25,P101,Mechanical Keyboard,Accessories,2499,30,C1033,115
+2026-04-25,P102,USB-C Hub,Accessories,1599,16,C1033,51
+2026-04-25,P103,Laptop Stand,Office,1299,20,C1012,97
+2026-04-25,P104,Noise Cancelling Headphones,Audio,5999,23,C1010,71
+2026-04-25,P105,Bluetooth Speaker,Audio,2999,20,C1008,77
+2026-04-25,P106,Webcam HD,Accessories,1899,27,C1034,62
+2026-04-25,P107,Desk Lamp,Office,999,42,C1007,114
+2026-04-25,P108,Power Bank,Mobile,1799,41,C1013,60
+2026-04-25,P109,Phone Case,Mobile,499,55,C1033,230
+2026-04-26,P100,Wireless Mouse,Accessories,799,46,C1005,97
+2026-04-26,P101,Mechanical Keyboard,Accessories,2499,29,C1033,96
+2026-04-26,P102,USB-C Hub,Accessories,1599,25,C1018,53
+2026-04-26,P103,Laptop Stand,Office,1299,33,C1031,103
+2026-04-26,P104,Noise Cancelling Headphones,Audio,5999,20,C1034,49
+2026-04-26,P105,Bluetooth Speaker,Audio,2999,36,C1017,101
+2026-04-26,P106,Webcam HD,Accessories,1899,33,C1013,89
+2026-04-26,P107,Desk Lamp,Office,999,51,C1008,88
+2026-04-26,P108,Power Bank,Mobile,1799,26,C1016,75
+2026-04-26,P109,Phone Case,Mobile,499,62,C1020,157
+2026-04-27,P100,Wireless Mouse,Accessories,799,46,C1010,180
+2026-04-27,P101,Mechanical Keyboard,Accessories,2499,33,C1024,98
+2026-04-27,P102,USB-C Hub,Accessories,1599,12,C1030,84
+2026-04-27,P103,Laptop Stand,Office,1299,20,C1026,131
+2026-04-27,P104,Noise Cancelling Headphones,Audio,5999,21,C1015,46
+2026-04-27,P105,Bluetooth Speaker,Audio,2999,14,C1033,75
+2026-04-27,P106,Webcam HD,Accessories,1899,17,C1023,67
+2026-04-27,P107,Desk Lamp,Office,999,25,C1002,133
+2026-04-27,P108,Power Bank,Mobile,1799,19,C1002,83
+2026-04-27,P109,Phone Case,Mobile,499,45,C1019,197
+2026-04-28,P100,Wireless Mouse,Accessories,799,38,C1015,101
+2026-04-28,P101,Mechanical Keyboard,Accessories,2499,34,C1017,66
+2026-04-28,P102,USB-C Hub,Accessories,1599,14,C1012,85
+2026-04-28,P103,Laptop Stand,Office,1299,21,C1028,76
+2026-04-28,P104,Noise Cancelling Headphones,Audio,5999,21,C1017,67
+2026-04-28,P105,Bluetooth Speaker,Audio,2999,19,C1033,80
+2026-04-28,P106,Webcam HD,Accessories,1899,20,C1006,80
+2026-04-28,P107,Desk Lamp,Office,999,25,C1012,139
+2026-04-28,P108,Power Bank,Mobile,1799,21,C1002,61
+2026-04-28,P109,Phone Case,Mobile,499,58,C1006,234
+2026-04-29,P100,Wireless Mouse,Accessories,799,45,C1017,116
+2026-04-29,P101,Mechanical Keyboard,Accessories,2499,34,C1022,87
+2026-04-29,P102,USB-C Hub,Accessories,1599,28,C1018,63
+2026-04-29,P103,Laptop Stand,Office,1299,32,C1016,70
+2026-04-29,P104,Noise Cancelling Headphones,Audio,5999,24,C1017,78
+2026-04-29,P105,Bluetooth Speaker,Audio,2999,13,C1020,63
+2026-04-29,P106,Webcam HD,Accessories,1899,23,C1014,72
+2026-04-29,P107,Desk Lamp,Office,999,27,C1012,116
+2026-04-29,P108,Power Bank,Mobile,1799,19,C1017,103
+2026-04-29,P109,Phone Case,Mobile,499,32,C1033,132
+2026-04-30,P100,Wireless Mouse,Accessories,799,44,C1031,112
+2026-04-30,P101,Mechanical Keyboard,Accessories,2499,20,C1028,86
+2026-04-30,P102,USB-C Hub,Accessories,1599,22,C1026,69
+2026-04-30,P103,Laptop Stand,Office,1299,42,C1014,88
+2026-04-30,P104,Noise Cancelling Headphones,Audio,5999,25,C1009,53
+2026-04-30,P105,Bluetooth Speaker,Audio,2999,21,C1004,70
+2026-04-30,P106,Webcam HD,Accessories,1899,27,C1017,48
+2026-04-30,P107,Desk Lamp,Office,999,32,C1025,81
+2026-04-30,P108,Power Bank,Mobile,1799,34,C1019,96
+2026-04-30,P109,Phone Case,Mobile,499,62,C1003,220
+2026-05-01,P100,Wireless Mouse,Accessories,799,44,C1029,109
+2026-05-01,P101,Mechanical Keyboard,Accessories,2499,16,C1022,81
+2026-05-01,P102,USB-C Hub,Accessories,1599,30,C1016,69
+2026-05-01,P103,Laptop Stand,Office,1299,19,C1014,127
+2026-05-01,P104,Noise Cancelling Headphones,Audio,5999,17,C1025,40
+2026-05-01,P105,Bluetooth Speaker,Audio,2999,16,C1013,67
+2026-05-01,P106,Webcam HD,Accessories,1899,17,C1006,84
+2026-05-01,P107,Desk Lamp,Office,999,29,C1026,84
+2026-05-01,P108,Power Bank,Mobile,1799,29,C1020,80
+2026-05-01,P109,Phone Case,Mobile,499,51,C1038,160
+2026-05-02,P100,Wireless Mouse,Accessories,799,74,C1010,176
+2026-05-02,P101,Mechanical Keyboard,Accessories,2499,38,C1039,102
+2026-05-02,P102,USB-C Hub,Accessories,1599,22,C1032,59
+2026-05-02,P103,Laptop Stand,Office,1299,26,C1010,116
+2026-05-02,P104,Noise Cancelling Headphones,Audio,5999,13,C1033,73
+2026-05-02,P105,Bluetooth Speaker,Audio,2999,32,C1033,91
+2026-05-02,P106,Webcam HD,Accessories,1899,18,C1033,72
+2026-05-02,P107,Desk Lamp,Office,999,45,C1002,140
+2026-05-02,P108,Power Bank,Mobile,1799,41,C1015,91
+2026-05-02,P109,Phone Case,Mobile,499,45,C1024,135
+2026-05-03,P100,Wireless Mouse,Accessories,799,70,C1029,130
+2026-05-03,P101,Mechanical Keyboard,Accessories,2499,33,C1035,97
+2026-05-03,P102,USB-C Hub,Accessories,1599,27,C1001,67
+2026-05-03,P103,Laptop Stand,Office,1299,34,C1033,72
+2026-05-03,P104,Noise Cancelling Headphones,Audio,5999,28,C1034,43
+2026-05-03,P105,Bluetooth Speaker,Audio,2999,17,C1017,91
+2026-05-03,P106,Webcam HD,Accessories,1899,32,C1016,87
+2026-05-03,P107,Desk Lamp,Office,999,49,C1030,93
+2026-05-03,P108,Power Bank,Mobile,1799,30,C1031,79
+2026-05-03,P109,Phone Case,Mobile,499,93,C1003,167
+2026-05-04,P100,Wireless Mouse,Accessories,799,42,C1005,156
+2026-05-04,P101,Mechanical Keyboard,Accessories,2499,26,C1020,79
+2026-05-04,P102,USB-C Hub,Accessories,1599,20,C1031,51
+2026-05-04,P103,Laptop Stand,Office,1299,16,C1007,85
+2026-05-04,P104,Noise Cancelling Headphones,Audio,5999,19,C1019,67
+2026-05-04,P105,Bluetooth Speaker,Audio,2999,25,C1030,67
+2026-05-04,P106,Webcam HD,Accessories,1899,18,C1036,53
+2026-05-04,P107,Desk Lamp,Office,999,23,C1031,153
+2026-05-04,P108,Power Bank,Mobile,1799,13,C1033,83
+2026-05-04,P109,Phone Case,Mobile,499,74,C1018,188
+2026-05-05,P100,Wireless Mouse,Accessories,799,35,C1014,182
+2026-05-05,P101,Mechanical Keyboard,Accessories,2499,15,C1034,65
+2026-05-05,P102,USB-C Hub,Accessories,1599,15,C1039,61
+2026-05-05,P103,Laptop Stand,Office,1299,36,C1008,101
+2026-05-05,P104,Noise Cancelling Headphones,Audio,5999,19,C1032,49
+2026-05-05,P105,Bluetooth Speaker,Audio,2999,20,C1032,60
+2026-05-05,P106,Webcam HD,Accessories,1899,23,C1010,66
+2026-05-05,P107,Desk Lamp,Office,999,29,C1008,106
+2026-05-05,P108,Power Bank,Mobile,1799,31,C1022,57
+2026-05-05,P109,Phone Case,Mobile,499,70,C1013,145
+2026-05-06,P100,Wireless Mouse,Accessories,799,50,C1019,180
+2026-05-06,P101,Mechanical Keyboard,Accessories,2499,20,C1025,63
+2026-05-06,P102,USB-C Hub,Accessories,1599,29,C1024,71
+2026-05-06,P103,Laptop Stand,Office,1299,41,C1004,118
+2026-05-06,P104,Noise Cancelling Headphones,Audio,5999,14,C1019,42
+2026-05-06,P105,Bluetooth Speaker,Audio,2999,26,C1018,60
+2026-05-06,P106,Webcam HD,Accessories,1899,20,C1024,62
+2026-05-06,P107,Desk Lamp,Office,999,43,C1002,110
+2026-05-06,P108,Power Bank,Mobile,1799,32,C1036,93
+2026-05-06,P109,Phone Case,Mobile,499,60,C1004,223
+2026-05-07,P100,Wireless Mouse,Accessories,799,59,C1040,134
+2026-05-07,P101,Mechanical Keyboard,Accessories,2499,33,C1019,98
+2026-05-07,P102,USB-C Hub,Accessories,1599,20,C1036,86
+2026-05-07,P103,Laptop Stand,Office,1299,20,C1022,99
+2026-05-07,P104,Noise Cancelling Headphones,Audio,5999,14,C1017,50
+2026-05-07,P105,Bluetooth Speaker,Audio,2999,22,C1031,65
+2026-05-07,P106,Webcam HD,Accessories,1899,22,C1011,66
+2026-05-07,P107,Desk Lamp,Office,999,39,C1033,83
+2026-05-07,P108,Power Bank,Mobile,1799,35,C1015,86
+2026-05-07,P109,Phone Case,Mobile,499,56,C1029,173
+2026-05-08,P100,Wireless Mouse,Accessories,799,43,C1016,147
+2026-05-08,P101,Mechanical Keyboard,Accessories,2499,18,C1006,80
+2026-05-08,P102,USB-C Hub,Accessories,1599,18,C1037,61
+2026-05-08,P103,Laptop Stand,Office,1299,24,C1027,68
+2026-05-08,P104,Noise Cancelling Headphones,Audio,5999,17,C1014,69
+2026-05-08,P105,Bluetooth Speaker,Audio,2999,23,C1004,70
+2026-05-08,P106,Webcam HD,Accessories,1899,23,C1024,74
+2026-05-08,P107,Desk Lamp,Office,999,25,C1014,116
+2026-05-08,P108,Power Bank,Mobile,1799,18,C1025,109
+2026-05-08,P109,Phone Case,Mobile,499,57,C1020,187
+2026-05-09,P100,Wireless Mouse,Accessories,799,70,C1002,177
+2026-05-09,P101,Mechanical Keyboard,Accessories,2499,22,C1031,85
+2026-05-09,P102,USB-C Hub,Accessories,1599,36,C1005,67
+2026-05-09,P103,Laptop Stand,Office,1299,34,C1034,130
+2026-05-09,P104,Noise Cancelling Headphones,Audio,5999,30,C1016,78
+2026-05-09,P105,Bluetooth Speaker,Audio,2999,37,C1010,64
+2026-05-09,P106,Webcam HD,Accessories,1899,27,C1030,79
+2026-05-09,P107,Desk Lamp,Office,999,27,C1001,137
+2026-05-09,P108,Power Bank,Mobile,1799,41,C1003,70
+2026-05-09,P109,Phone Case,Mobile,499,83,C1009,169
+2026-05-10,P100,Wireless Mouse,Accessories,799,56,C1028,145
+2026-05-10,P101,Mechanical Keyboard,Accessories,2499,38,C1005,66
+2026-05-10,P102,USB-C Hub,Accessories,1599,20,C1013,87
+2026-05-10,P103,Laptop Stand,Office,1299,32,C1039,82
+2026-05-10,P104,Noise Cancelling Headphones,Audio,5999,12,C1030,61
+2026-05-10,P105,Bluetooth Speaker,Audio,2999,22,C1016,69
+2026-05-10,P106,Webcam HD,Accessories,1899,25,C1016,58
+2026-05-10,P107,Desk Lamp,Office,999,24,C1020,109
+2026-05-10,P108,Power Bank,Mobile,1799,18,C1027,68
+2026-05-10,P109,Phone Case,Mobile,499,43,C1028,159
+2026-05-11,P100,Wireless Mouse,Accessories,799,53,C1003,116
+2026-05-11,P101,Mechanical Keyboard,Accessories,2499,29,C1024,103
+2026-05-11,P102,USB-C Hub,Accessories,1599,21,C1019,53
+2026-05-11,P103,Laptop Stand,Office,1299,33,C1014,101
+2026-05-11,P104,Noise Cancelling Headphones,Audio,5999,16,C1013,48
+2026-05-11,P105,Bluetooth Speaker,Audio,2999,16,C1019,64
+2026-05-11,P106,Webcam HD,Accessories,1899,13,C1040,77
+2026-05-11,P107,Desk Lamp,Office,999,23,C1027,94
+2026-05-11,P108,Power Bank,Mobile,1799,32,C1039,60
+2026-05-11,P109,Phone Case,Mobile,499,36,C1014,181
+2026-05-12,P100,Wireless Mouse,Accessories,799,23,C1027,151
+2026-05-12,P101,Mechanical Keyboard,Accessories,2499,15,C1026,63
+2026-05-12,P102,USB-C Hub,Accessories,1599,18,C1021,77
+2026-05-12,P103,Laptop Stand,Office,1299,34,C1011,134
+2026-05-12,P104,Noise Cancelling Headphones,Audio,5999,14,C1034,47
+2026-05-12,P105,Bluetooth Speaker,Audio,2999,27,C1025,54
+2026-05-12,P106,Webcam HD,Accessories,1899,26,C1029,94
+2026-05-12,P107,Desk Lamp,Office,999,23,C1018,77
+2026-05-12,P108,Power Bank,Mobile,1799,15,C1008,81
+2026-05-12,P109,Phone Case,Mobile,499,57,C1025,228
+2026-05-13,P100,Wireless Mouse,Accessories,799,37,C1028,173
+2026-05-13,P101,Mechanical Keyboard,Accessories,2499,17,C1013,102
+2026-05-13,P102,USB-C Hub,Accessories,1599,18,C1013,86
+2026-05-13,P103,Laptop Stand,Office,1299,25,C1031,117
+2026-05-13,P104,Noise Cancelling Headphones,Audio,5999,10,C1026,56
+2026-05-13,P105,Bluetooth Speaker,Audio,2999,14,C1005,54
+2026-05-13,P106,Webcam HD,Accessories,1899,27,C1013,50
+2026-05-13,P107,Desk Lamp,Office,999,42,C1022,147
+2026-05-13,P108,Power Bank,Mobile,1799,22,C1040,76
+2026-05-13,P109,Phone Case,Mobile,499,34,C1021,227
+2026-05-14,P100,Wireless Mouse,Accessories,799,59,C1039,123
+2026-05-14,P101,Mechanical Keyboard,Accessories,2499,37,C1005,98
+2026-05-14,P102,USB-C Hub,Accessories,1599,12,C1031,55
+2026-05-14,P103,Laptop Stand,Office,1299,36,C1025,98
+2026-05-14,P104,Noise Cancelling Headphones,Audio,5999,23,C1032,76
+2026-05-14,P105,Bluetooth Speaker,Audio,2999,16,C1001,78
+2026-05-14,P106,Webcam HD,Accessories,1899,27,C1010,82
+2026-05-14,P107,Desk Lamp,Office,999,38,C1021,102
+2026-05-14,P108,Power Bank,Mobile,1799,25,C1039,102
+2026-05-14,P109,Phone Case,Mobile,499,36,C1011,155
+2026-05-15,P100,Wireless Mouse,Accessories,799,36,C1003,101
+2026-05-15,P101,Mechanical Keyboard,Accessories,2499,29,C1011,92
+2026-05-15,P102,USB-C Hub,Accessories,1599,31,C1005,84
+2026-05-15,P103,Laptop Stand,Office,1299,26,C1007,73
+2026-05-15,P104,Noise Cancelling Headphones,Audio,5999,18,C1029,79
+2026-05-15,P105,Bluetooth Speaker,Audio,2999,18,C1030,59
+2026-05-15,P106,Webcam HD,Accessories,1899,26,C1035,79
+2026-05-15,P107,Desk Lamp,Office,999,50,C1008,128
+2026-05-15,P108,Power Bank,Mobile,1799,35,C1018,74
+2026-05-15,P109,Phone Case,Mobile,499,67,C1017,178
+2026-05-16,P100,Wireless Mouse,Accessories,799,39,C1016,118
+2026-05-16,P101,Mechanical Keyboard,Accessories,2499,26,C1038,76
+2026-05-16,P102,USB-C Hub,Accessories,1599,18,C1017,47
+2026-05-16,P103,Laptop Stand,Office,1299,55,C1015,101
+2026-05-16,P104,Noise Cancelling Headphones,Audio,5999,26,C1030,44
+2026-05-16,P105,Bluetooth Speaker,Audio,2999,43,C1031,57
+2026-05-16,P106,Webcam HD,Accessories,1899,36,C1029,58
+2026-05-16,P107,Desk Lamp,Office,999,60,C1019,80
+2026-05-16,P108,Power Bank,Mobile,1799,25,C1039,60
+2026-05-16,P109,Phone Case,Mobile,499,104,C1005,205
+2026-05-17,P100,Wireless Mouse,Accessories,799,45,C1029,177
+2026-05-17,P101,Mechanical Keyboard,Accessories,2499,35,C1001,106
+2026-05-17,P102,USB-C Hub,Accessories,1599,15,C1040,71
+2026-05-17,P103,Laptop Stand,Office,1299,31,C1022,70
+2026-05-17,P104,Noise Cancelling Headphones,Audio,5999,14,C1017,48
+2026-05-17,P105,Bluetooth Speaker,Audio,2999,16,C1014,90
+2026-05-17,P106,Webcam HD,Accessories,1899,32,C1027,86
+2026-05-17,P107,Desk Lamp,Office,999,48,C1020,91
+2026-05-17,P108,Power Bank,Mobile,1799,19,C1032,59
+2026-05-17,P109,Phone Case,Mobile,499,72,C1007,138
+2026-05-18,P100,Wireless Mouse,Accessories,799,49,C1010,158
+2026-05-18,P101,Mechanical Keyboard,Accessories,2499,27,C1011,65
+2026-05-18,P102,USB-C Hub,Accessories,1599,17,C1019,57
+2026-05-18,P103,Laptop Stand,Office,1299,31,C1004,95
+2026-05-18,P104,Noise Cancelling Headphones,Audio,5999,13,C1023,62
+2026-05-18,P105,Bluetooth Speaker,Audio,2999,20,C1024,53
+2026-05-18,P106,Webcam HD,Accessories,1899,22,C1026,66
+2026-05-18,P107,Desk Lamp,Office,999,23,C1011,77
+2026-05-18,P108,Power Bank,Mobile,1799,22,C1026,104
+2026-05-18,P109,Phone Case,Mobile,499,56,C1011,177
+2026-05-19,P100,Wireless Mouse,Accessories,799,26,C1010,99
+2026-05-19,P101,Mechanical Keyboard,Accessories,2499,28,C1006,114
+2026-05-19,P102,USB-C Hub,Accessories,1599,20,C1033,86
+2026-05-19,P103,Laptop Stand,Office,1299,20,C1011,90
+2026-05-19,P104,Noise Cancelling Headphones,Audio,5999,17,C1007,77
+2026-05-19,P105,Bluetooth Speaker,Audio,2999,19,C1013,92
+2026-05-19,P106,Webcam HD,Accessories,1899,16,C1003,87
+2026-05-19,P107,Desk Lamp,Office,999,46,C1004,114
+2026-05-19,P108,Power Bank,Mobile,1799,26,C1006,94
+2026-05-19,P109,Phone Case,Mobile,499,73,C1011,210
+2026-05-20,P100,Wireless Mouse,Accessories,799,47,C1040,176
+2026-05-20,P101,Mechanical Keyboard,Accessories,2499,24,C1031,110
+2026-05-20,P102,USB-C Hub,Accessories,1599,14,C1026,54
+2026-05-20,P103,Laptop Stand,Office,1299,41,C1023,78
+2026-05-20,P104,Noise Cancelling Headphones,Audio,5999,12,C1013,49
+2026-05-20,P105,Bluetooth Speaker,Audio,2999,14,C1003,82
+2026-05-20,P106,Webcam HD,Accessories,1899,24,C1025,62
+2026-05-20,P107,Desk Lamp,Office,999,37,C1020,120
+2026-05-20,P108,Power Bank,Mobile,1799,29,C1016,75
+2026-05-20,P109,Phone Case,Mobile,499,53,C1029,215
+2026-05-21,P100,Wireless Mouse,Accessories,799,42,C1001,111
+2026-05-21,P101,Mechanical Keyboard,Accessories,2499,30,C1016,89
+2026-05-21,P102,USB-C Hub,Accessories,1599,19,C1030,72
+2026-05-21,P103,Laptop Stand,Office,1299,39,C1026,122
+2026-05-21,P104,Noise Cancelling Headphones,Audio,5999,12,C1028,45
+2026-05-21,P105,Bluetooth Speaker,Audio,2999,21,C1033,94
+2026-05-21,P106,Webcam HD,Accessories,1899,21,C1009,49
+2026-05-21,P107,Desk Lamp,Office,999,22,C1033,134
+2026-05-21,P108,Power Bank,Mobile,1799,16,C1025,100
+2026-05-21,P109,Phone Case,Mobile,499,66,C1002,231
+2026-05-22,P100,Wireless Mouse,Accessories,799,60,C1008,189
+2026-05-22,P101,Mechanical Keyboard,Accessories,2499,21,C1032,118
+2026-05-22,P102,USB-C Hub,Accessories,1599,17,C1011,81
+2026-05-22,P103,Laptop Stand,Office,1299,38,C1015,116
+2026-05-22,P104,Noise Cancelling Headphones,Audio,5999,12,C1017,54
+2026-05-22,P105,Bluetooth Speaker,Audio,2999,17,C1018,99
+2026-05-22,P106,Webcam HD,Accessories,1899,31,C1017,69
+2026-05-22,P107,Desk Lamp,Office,999,37,C1014,148
+2026-05-22,P108,Power Bank,Mobile,1799,30,C1016,92
+2026-05-22,P109,Phone Case,Mobile,499,52,C1012,134
+2026-05-23,P100,Wireless Mouse,Accessories,799,48,C1018,155
+2026-05-23,P101,Mechanical Keyboard,Accessories,2499,39,C1011,113
+2026-05-23,P102,USB-C Hub,Accessories,1599,31,C1034,56
+2026-05-23,P103,Laptop Stand,Office,1299,22,C1029,125
+2026-05-23,P104,Noise Cancelling Headphones,Audio,5999,23,C1007,63
+2026-05-23,P105,Bluetooth Speaker,Audio,2999,23,C1026,80
+2026-05-23,P106,Webcam HD,Accessories,1899,32,C1025,65
+2026-05-23,P107,Desk Lamp,Office,999,62,C1024,122
+2026-05-23,P108,Power Bank,Mobile,1799,27,C1015,62
+2026-05-23,P109,Phone Case,Mobile,499,51,C1004,226
+2026-05-24,P100,Wireless Mouse,Accessories,799,40,C1020,144
+2026-05-24,P101,Mechanical Keyboard,Accessories,2499,35,C1038,119
+2026-05-24,P102,USB-C Hub,Accessories,1599,32,C1001,85
+2026-05-24,P103,Laptop Stand,Office,1299,43,C1019,82
+2026-05-24,P104,Noise Cancelling Headphones,Audio,5999,23,C1033,57
+2026-05-24,P105,Bluetooth Speaker,Audio,2999,24,C1032,55
+2026-05-24,P106,Webcam HD,Accessories,1899,19,C1002,78
+2026-05-24,P107,Desk Lamp,Office,999,24,C1020,121
+2026-05-24,P108,Power Bank,Mobile,1799,19,C1015,78
+2026-05-24,P109,Phone Case,Mobile,499,62,C1009,169
+2026-05-25,P100,Wireless Mouse,Accessories,799,28,C1031,154
+2026-05-25,P101,Mechanical Keyboard,Accessories,2499,16,C1016,60
+2026-05-25,P102,USB-C Hub,Accessories,1599,21,C1005,65
+2026-05-25,P103,Laptop Stand,Office,1299,30,C1018,126
+2026-05-25,P104,Noise Cancelling Headphones,Audio,5999,14,C1001,50
+2026-05-25,P105,Bluetooth Speaker,Audio,2999,12,C1023,95
+2026-05-25,P106,Webcam HD,Accessories,1899,20,C1039,74
+2026-05-25,P107,Desk Lamp,Office,999,43,C1016,134
+2026-05-25,P108,Power Bank,Mobile,1799,16,C1004,57
+2026-05-25,P109,Phone Case,Mobile,499,53,C1016,182
+2026-05-26,P100,Wireless Mouse,Accessories,799,26,C1007,181
+2026-05-26,P101,Mechanical Keyboard,Accessories,2499,14,C1013,93
+2026-05-26,P102,USB-C Hub,Accessories,1599,12,C1039,53
+2026-05-26,P103,Laptop Stand,Office,1299,31,C1027,111
+2026-05-26,P104,Noise Cancelling Headphones,Audio,5999,21,C1020,46
+2026-05-26,P105,Bluetooth Speaker,Audio,2999,13,C1031,85
+2026-05-26,P106,Webcam HD,Accessories,1899,23,C1028,47
+2026-05-26,P107,Desk Lamp,Office,999,38,C1029,113
+2026-05-26,P108,Power Bank,Mobile,1799,16,C1017,114
+2026-05-26,P109,Phone Case,Mobile,499,40,C1022,135
+2026-05-27,P100,Wireless Mouse,Accessories,799,55,C1017,182
+2026-05-27,P101,Mechanical Keyboard,Accessories,2499,30,C1036,75
+2026-05-27,P102,USB-C Hub,Accessories,1599,22,C1034,75
+2026-05-27,P103,Laptop Stand,Office,1299,41,C1014,87
+2026-05-27,P104,Noise Cancelling Headphones,Audio,5999,11,C1011,60
+2026-05-27,P105,Bluetooth Speaker,Audio,2999,18,C1013,64
+2026-05-27,P106,Webcam HD,Accessories,1899,28,C1021,82
+2026-05-27,P107,Desk Lamp,Office,999,24,C1039,107
+2026-05-27,P108,Power Bank,Mobile,1799,19,C1035,109
+2026-05-27,P109,Phone Case,Mobile,499,54,C1001,239
+2026-05-28,P100,Wireless Mouse,Accessories,799,54,C1015,136
+2026-05-28,P101,Mechanical Keyboard,Accessories,2499,28,C1014,78
+2026-05-28,P102,USB-C Hub,Accessories,1599,18,C1037,71
+2026-05-28,P103,Laptop Stand,Office,1299,40,C1002,77
+2026-05-28,P104,Noise Cancelling Headphones,Audio,5999,11,C1011,64
+2026-05-28,P105,Bluetooth Speaker,Audio,2999,20,C1002,59
+2026-05-28,P106,Webcam HD,Accessories,1899,12,C1003,54
+2026-05-28,P107,Desk Lamp,Office,999,39,C1005,134
+2026-05-28,P108,Power Bank,Mobile,1799,33,C1013,101
+2026-05-28,P109,Phone Case,Mobile,499,72,C1005,236
+2026-05-29,P100,Wireless Mouse,Accessories,799,59,C1025,166
+2026-05-29,P101,Mechanical Keyboard,Accessories,2499,18,C1008,72
+2026-05-29,P102,USB-C Hub,Accessories,1599,12,C1006,87
+2026-05-29,P103,Laptop Stand,Office,1299,41,C1019,110
+2026-05-29,P104,Noise Cancelling Headphones,Audio,5999,18,C1014,45
+2026-05-29,P105,Bluetooth Speaker,Audio,2999,20,C1017,70
+2026-05-29,P106,Webcam HD,Accessories,1899,13,C1019,59
+2026-05-29,P107,Desk Lamp,Office,999,21,C1021,136
+2026-05-29,P108,Power Bank,Mobile,1799,33,C1031,92
+2026-05-29,P109,Phone Case,Mobile,499,79,C1002,210
+2026-05-30,P100,Wireless Mouse,Accessories,799,64,C1034,97
+2026-05-30,P101,Mechanical Keyboard,Accessories,2499,40,C1004,80
+2026-05-30,P102,USB-C Hub,Accessories,1599,25,C1006,54
+2026-05-30,P103,Laptop Stand,Office,1299,38,C1028,86
+2026-05-30,P104,Noise Cancelling Headphones,Audio,5999,12,C1004,48
+2026-05-30,P105,Bluetooth Speaker,Audio,2999,16,C1032,78
+2026-05-30,P106,Webcam HD,Accessories,1899,30,C1032,86
+2026-05-30,P107,Desk Lamp,Office,999,45,C1033,151
+2026-05-30,P108,Power Bank,Mobile,1799,24,C1019,111
+2026-05-30,P109,Phone Case,Mobile,499,89,C1015,251
+2026-05-31,P100,Wireless Mouse,Accessories,799,56,C1006,105
+2026-05-31,P101,Mechanical Keyboard,Accessories,2499,35,C1036,119
+2026-05-31,P102,USB-C Hub,Accessories,1599,33,C1023,73
+2026-05-31,P103,Laptop Stand,Office,1299,25,C1006,130
+2026-05-31,P104,Noise Cancelling Headphones,Audio,5999,22,C1024,65
+2026-05-31,P105,Bluetooth Speaker,Audio,2999,23,C1035,66
+2026-05-31,P106,Webcam HD,Accessories,1899,28,C1015,65
+2026-05-31,P107,Desk Lamp,Office,999,64,C1039,87
+2026-05-31,P108,Power Bank,Mobile,1799,41,C1003,100
+2026-05-31,P109,Phone Case,Mobile,499,66,C1010,172
+2026-06-01,P100,Wireless Mouse,Accessories,799,56,C1036,137
+2026-06-01,P101,Mechanical Keyboard,Accessories,2499,32,C1029,70
+2026-06-01,P102,USB-C Hub,Accessories,1599,23,C1015,56
+2026-06-01,P103,Laptop Stand,Office,1299,20,C1016,98
+2026-06-01,P104,Noise Cancelling Headphones,Audio,5999,18,C1040,50
+2026-06-01,P105,Bluetooth Speaker,Audio,2999,16,C1016,60
+2026-06-01,P106,Webcam HD,Accessories,1899,25,C1023,76
+2026-06-01,P107,Desk Lamp,Office,999,24,C1013,102
+2026-06-01,P108,Power Bank,Mobile,1799,20,C1007,112
+2026-06-01,P109,Phone Case,Mobile,499,40,C1013,215
+2026-06-02,P100,Wireless Mouse,Accessories,799,38,C1020,188
+2026-06-02,P101,Mechanical Keyboard,Accessories,2499,33,C1013,86
+2026-06-02,P102,USB-C Hub,Accessories,1599,13,C1018,86
+2026-06-02,P103,Laptop Stand,Office,1299,22,C1003,93
+2026-06-02,P104,Noise Cancelling Headphones,Audio,5999,10,C1028,74
+2026-06-02,P105,Bluetooth Speaker,Audio,2999,28,C1019,78
+2026-06-02,P106,Webcam HD,Accessories,1899,21,C1039,54
+2026-06-02,P107,Desk Lamp,Office,999,43,C1016,77
+2026-06-02,P108,Power Bank,Mobile,1799,36,C1037,82
+2026-06-02,P109,Phone Case,Mobile,499,63,C1015,214
+2026-06-03,P100,Wireless Mouse,Accessories,799,52,C1038,156
+2026-06-03,P101,Mechanical Keyboard,Accessories,2499,38,C1008,100
+2026-06-03,P102,USB-C Hub,Accessories,1599,21,C1007,59
+2026-06-03,P103,Laptop Stand,Office,1299,44,C1026,83
+2026-06-03,P104,Noise Cancelling Headphones,Audio,5999,23,C1017,65
+2026-06-03,P105,Bluetooth Speaker,Audio,2999,33,C1002,77
+2026-06-03,P106,Webcam HD,Accessories,1899,25,C1012,66
+2026-06-03,P107,Desk Lamp,Office,999,50,C1001,102
+2026-06-03,P108,Power Bank,Mobile,1799,25,C1007,85
+2026-06-03,P109,Phone Case,Mobile,499,36,C1011,200
+2026-06-04,P100,Wireless Mouse,Accessories,799,55,C1013,185
+2026-06-04,P101,Mechanical Keyboard,Accessories,2499,30,C1037,66
+2026-06-04,P102,USB-C Hub,Accessories,1599,21,C1031,54
+2026-06-04,P103,Laptop Stand,Office,1299,33,C1024,110
+2026-06-04,P104,Noise Cancelling Headphones,Audio,5999,20,C1030,56
+2026-06-04,P105,Bluetooth Speaker,Audio,2999,19,C1026,88
+2026-06-04,P106,Webcam HD,Accessories,1899,23,C1040,91
+2026-06-04,P107,Desk Lamp,Office,999,33,C1018,81
+2026-06-04,P108,Power Bank,Mobile,1799,25,C1005,61
+2026-06-04,P109,Phone Case,Mobile,499,58,C1023,184
+2026-06-05,P100,Wireless Mouse,Accessories,799,45,C1020,105
+2026-06-05,P101,Mechanical Keyboard,Accessories,2499,32,C1034,116
+2026-06-05,P102,USB-C Hub,Accessories,1599,28,C1026,89
+2026-06-05,P103,Laptop Stand,Office,1299,29,C1005,78
+2026-06-05,P104,Noise Cancelling Headphones,Audio,5999,23,C1031,65
+2026-06-05,P105,Bluetooth Speaker,Audio,2999,26,C1010,90
+2026-06-05,P106,Webcam HD,Accessories,1899,18,C1027,77
+2026-06-05,P107,Desk Lamp,Office,999,33,C1036,100
+2026-06-05,P108,Power Bank,Mobile,1799,29,C1031,102
+2026-06-05,P109,Phone Case,Mobile,499,50,C1018,240
+2026-06-06,P100,Wireless Mouse,Accessories,799,57,C1028,160
+2026-06-06,P101,Mechanical Keyboard,Accessories,2499,35,C1018,88
+2026-06-06,P102,USB-C Hub,Accessories,1599,20,C1021,74
+2026-06-06,P103,Laptop Stand,Office,1299,34,C1006,96
+2026-06-06,P104,Noise Cancelling Headphones,Audio,5999,23,C1020,54
+2026-06-06,P105,Bluetooth Speaker,Audio,2999,35,C1037,55
+2026-06-06,P106,Webcam HD,Accessories,1899,33,C1009,84
+2026-06-06,P107,Desk Lamp,Office,999,41,C1038,104
+2026-06-06,P108,Power Bank,Mobile,1799,16,C1005,58
+2026-06-06,P109,Phone Case,Mobile,499,75,C1007,162
+2026-06-07,P100,Wireless Mouse,Accessories,799,49,C1012,176
+2026-06-07,P101,Mechanical Keyboard,Accessories,2499,36,C1010,80
+2026-06-07,P102,USB-C Hub,Accessories,1599,16,C1035,63
+2026-06-07,P103,Laptop Stand,Office,1299,23,C1039,127
+2026-06-07,P104,Noise Cancelling Headphones,Audio,5999,27,C1036,43
+2026-06-07,P105,Bluetooth Speaker,Audio,2999,32,C1013,96
+2026-06-07,P106,Webcam HD,Accessories,1899,23,C1006,57
+2026-06-07,P107,Desk Lamp,Office,999,45,C1008,111
+2026-06-07,P108,Power Bank,Mobile,1799,29,C1015,72
+2026-06-07,P109,Phone Case,Mobile,499,80,C1036,191
+2026-06-08,P100,Wireless Mouse,Accessories,799,21,C1010,139
+2026-06-08,P101,Mechanical Keyboard,Accessories,2499,26,C1011,74
+2026-06-08,P102,USB-C Hub,Accessories,1599,17,C1001,83
+2026-06-08,P103,Laptop Stand,Office,1299,17,C1037,89
+2026-06-08,P104,Noise Cancelling Headphones,Audio,5999,14,C1030,51
+2026-06-08,P105,Bluetooth Speaker,Audio,2999,17,C1005,74
+2026-06-08,P106,Webcam HD,Accessories,1899,12,C1002,64
+2026-06-08,P107,Desk Lamp,Office,999,16,C1022,81
+2026-06-08,P108,Power Bank,Mobile,1799,27,C1031,62
+2026-06-08,P109,Phone Case,Mobile,499,46,C1003,246
+2026-06-09,P100,Wireless Mouse,Accessories,799,26,C1009,134
+2026-06-09,P101,Mechanical Keyboard,Accessories,2499,19,C1024,111
+2026-06-09,P102,USB-C Hub,Accessories,1599,14,C1036,80
+2026-06-09,P103,Laptop Stand,Office,1299,31,C1028,81
+2026-06-09,P104,Noise Cancelling Headphones,Audio,5999,13,C1004,50
+2026-06-09,P105,Bluetooth Speaker,Audio,2999,25,C1032,67
+2026-06-09,P106,Webcam HD,Accessories,1899,16,C1018,71
+2026-06-09,P107,Desk Lamp,Office,999,38,C1014,104
+2026-06-09,P108,Power Bank,Mobile,1799,24,C1022,103
+2026-06-09,P109,Phone Case,Mobile,499,34,C1009,222
+2026-06-10,P100,Wireless Mouse,Accessories,799,40,C1003,155
+2026-06-10,P101,Mechanical Keyboard,Accessories,2499,21,C1026,93
+2026-06-10,P102,USB-C Hub,Accessories,1599,18,C1020,47
+2026-06-10,P103,Laptop Stand,Office,1299,17,C1031,70
+2026-06-10,P104,Noise Cancelling Headphones,Audio,5999,17,C1033,66
+2026-06-10,P105,Bluetooth Speaker,Audio,2999,28,C1040,84
+2026-06-10,P106,Webcam HD,Accessories,1899,13,C1039,79
+2026-06-10,P107,Desk Lamp,Office,999,40,C1003,83
+2026-06-10,P108,Power Bank,Mobile,1799,26,C1012,83
+2026-06-10,P109,Phone Case,Mobile,499,32,C1003,153
+2026-06-11,P100,Wireless Mouse,Accessories,799,35,C1001,104
+2026-06-11,P101,Mechanical Keyboard,Accessories,2499,21,C1020,109
+2026-06-11,P102,USB-C Hub,Accessories,1599,19,C1020,56
+2026-06-11,P103,Laptop Stand,Office,1299,19,C1002,69
+2026-06-11,P104,Noise Cancelling Headphones,Audio,5999,15,C1004,65
+2026-06-11,P105,Bluetooth Speaker,Audio,2999,21,C1008,79
+2026-06-11,P106,Webcam HD,Accessories,1899,23,C1026,67
+2026-06-11,P107,Desk Lamp,Office,999,29,C1025,78
+2026-06-11,P108,Power Bank,Mobile,1799,24,C1010,114
+2026-06-11,P109,Phone Case,Mobile,499,50,C1007,183
+2026-06-12,P100,Wireless Mouse,Accessories,799,25,C1010,139
+2026-06-12,P101,Mechanical Keyboard,Accessories,2499,28,C1001,85
+2026-06-12,P102,USB-C Hub,Accessories,1599,22,C1006,50
+2026-06-12,P103,Laptop Stand,Office,1299,21,C1031,75
+2026-06-12,P104,Noise Cancelling Headphones,Audio,5999,10,C1016,68
+2026-06-12,P105,Bluetooth Speaker,Audio,2999,21,C1004,91
+2026-06-12,P106,Webcam HD,Accessories,1899,18,C1010,82
+2026-06-12,P107,Desk Lamp,Office,999,39,C1036,84
+2026-06-12,P108,Power Bank,Mobile,1799,29,C1017,83
+2026-06-12,P109,Phone Case,Mobile,499,75,C1003,136
+2026-06-13,P100,Wireless Mouse,Accessories,799,26,C1040,96
+2026-06-13,P101,Mechanical Keyboard,Accessories,2499,18,C1039,78
+2026-06-13,P102,USB-C Hub,Accessories,1599,15,C1032,83
+2026-06-13,P103,Laptop Stand,Office,1299,36,C1037,88
+2026-06-13,P104,Noise Cancelling Headphones,Audio,5999,23,C1011,58
+2026-06-13,P105,Bluetooth Speaker,Audio,2999,17,C1024,94
+2026-06-13,P106,Webcam HD,Accessories,1899,32,C1027,55
+2026-06-13,P107,Desk Lamp,Office,999,37,C1029,137
+2026-06-13,P108,Power Bank,Mobile,1799,39,C1037,102
+2026-06-13,P109,Phone Case,Mobile,499,53,C1040,166
+2026-06-14,P100,Wireless Mouse,Accessories,799,61,C1039,161
+2026-06-14,P101,Mechanical Keyboard,Accessories,2499,23,C1001,96
+2026-06-14,P102,USB-C Hub,Accessories,1599,26,C1020,72
+2026-06-14,P103,Laptop Stand,Office,1299,33,C1016,133
+2026-06-14,P104,Noise Cancelling Headphones,Audio,5999,16,C1039,67
+2026-06-14,P105,Bluetooth Speaker,Audio,2999,30,C1029,64
+2026-06-14,P106,Webcam HD,Accessories,1899,17,C1017,47
+2026-06-14,P107,Desk Lamp,Office,999,28,C1003,89
+2026-06-14,P108,Power Bank,Mobile,1799,21,C1037,65
+2026-06-14,P109,Phone Case,Mobile,499,40,C1036,256
+2026-06-15,P100,Wireless Mouse,Accessories,799,38,C1023,181
+2026-06-15,P101,Mechanical Keyboard,Accessories,2499,21,C1032,92
+2026-06-15,P102,USB-C Hub,Accessories,1599,20,C1015,54
+2026-06-15,P103,Laptop Stand,Office,1299,19,C1026,71
+2026-06-15,P104,Noise Cancelling Headphones,Audio,5999,13,C1017,48
+2026-06-15,P105,Bluetooth Speaker,Audio,2999,19,C1025,52
+2026-06-15,P106,Webcam HD,Accessories,1899,16,C1023,51
+2026-06-15,P107,Desk Lamp,Office,999,33,C1038,95
+2026-06-15,P108,Power Bank,Mobile,1799,20,C1034,72
+2026-06-15,P109,Phone Case,Mobile,499,37,C1013,195
+2026-06-16,P100,Wireless Mouse,Accessories,799,24,C1012,113
+2026-06-16,P101,Mechanical Keyboard,Accessories,2499,27,C1037,77
+2026-06-16,P102,USB-C Hub,Accessories,1599,17,C1034,63
+2026-06-16,P103,Laptop Stand,Office,1299,31,C1032,84
+2026-06-16,P104,Noise Cancelling Headphones,Audio,5999,12,C1030,44
+2026-06-16,P105,Bluetooth Speaker,Audio,2999,23,C1039,60
+2026-06-16,P106,Webcam HD,Accessories,1899,10,C1039,60
+2026-06-16,P107,Desk Lamp,Office,999,15,C1037,80
+2026-06-16,P108,Power Bank,Mobile,1799,20,C1017,90
+2026-06-16,P109,Phone Case,Mobile,499,62,C1007,166
+2026-06-17,P100,Wireless Mouse,Accessories,799,49,C1039,167
+2026-06-17,P101,Mechanical Keyboard,Accessories,2499,31,C1003,75
+2026-06-17,P102,USB-C Hub,Accessories,1599,14,C1025,89
+2026-06-17,P103,Laptop Stand,Office,1299,16,C1036,70
+2026-06-17,P104,Noise Cancelling Headphones,Audio,5999,13,C1032,68
+2026-06-17,P105,Bluetooth Speaker,Audio,2999,27,C1005,100
+2026-06-17,P106,Webcam HD,Accessories,1899,23,C1008,77
+2026-06-17,P107,Desk Lamp,Office,999,34,C1021,84
+2026-06-17,P108,Power Bank,Mobile,1799,22,C1033,94
+2026-06-17,P109,Phone Case,Mobile,499,43,C1011,188
+2026-06-18,P100,Wireless Mouse,Accessories,799,31,C1015,117
+2026-06-18,P101,Mechanical Keyboard,Accessories,2499,16,C1023,116
+2026-06-18,P102,USB-C Hub,Accessories,1599,10,C1002,69
+2026-06-18,P103,Laptop Stand,Office,1299,33,C1033,70
+2026-06-18,P104,Noise Cancelling Headphones,Audio,5999,18,C1031,65
+2026-06-18,P105,Bluetooth Speaker,Audio,2999,12,C1001,60
+2026-06-18,P106,Webcam HD,Accessories,1899,25,C1020,79
+2026-06-18,P107,Desk Lamp,Office,999,31,C1007,111
+2026-06-18,P108,Power Bank,Mobile,1799,21,C1025,78
+2026-06-18,P109,Phone Case,Mobile,499,32,C1011,192
+2026-06-19,P100,Wireless Mouse,Accessories,799,36,C1001,171
+2026-06-19,P101,Mechanical Keyboard,Accessories,2499,23,C1003,114
+2026-06-19,P102,USB-C Hub,Accessories,1599,12,C1005,82
+2026-06-19,P103,Laptop Stand,Office,1299,37,C1009,126
+2026-06-19,P104,Noise Cancelling Headphones,Audio,5999,20,C1025,78
+2026-06-19,P105,Bluetooth Speaker,Audio,2999,27,C1029,85
+2026-06-19,P106,Webcam HD,Accessories,1899,27,C1015,62
+2026-06-19,P107,Desk Lamp,Office,999,30,C1010,126
+2026-06-19,P108,Power Bank,Mobile,1799,19,C1012,99
+2026-06-19,P109,Phone Case,Mobile,499,62,C1010,201
+2026-06-20,P100,Wireless Mouse,Accessories,799,41,C1027,109
+2026-06-20,P101,Mechanical Keyboard,Accessories,2499,25,C1018,69
+2026-06-20,P102,USB-C Hub,Accessories,1599,22,C1011,58
+2026-06-20,P103,Laptop Stand,Office,1299,24,C1030,74
+2026-06-20,P104,Noise Cancelling Headphones,Audio,5999,25,C1033,44
+2026-06-20,P105,Bluetooth Speaker,Audio,2999,14,C1014,99
+2026-06-20,P106,Webcam HD,Accessories,1899,23,C1008,87
+2026-06-20,P107,Desk Lamp,Office,999,28,C1024,93
+2026-06-20,P108,Power Bank,Mobile,1799,25,C1016,72
+2026-06-20,P109,Phone Case,Mobile,499,83,C1019,142
+2026-06-21,P100,Wireless Mouse,Accessories,799,38,C1019,110
+2026-06-21,P101,Mechanical Keyboard,Accessories,2499,18,C1029,98
+2026-06-21,P102,USB-C Hub,Accessories,1599,25,C1009,60
+2026-06-21,P103,Laptop Stand,Office,1299,28,C1034,120
+2026-06-21,P104,Noise Cancelling Headphones,Audio,5999,14,C1003,54
+2026-06-21,P105,Bluetooth Speaker,Audio,2999,31,C1037,63
+2026-06-21,P106,Webcam HD,Accessories,1899,15,C1034,87
+2026-06-21,P107,Desk Lamp,Office,999,41,C1013,132
+2026-06-21,P108,Power Bank,Mobile,1799,27,C1039,105
+2026-06-21,P109,Phone Case,Mobile,499,68,C1012,228
+2026-06-22,P100,Wireless Mouse,Accessories,799,23,C1013,153
+2026-06-22,P101,Mechanical Keyboard,Accessories,2499,21,C1005,72
+2026-06-22,P102,USB-C Hub,Accessories,1599,17,C1004,68
+2026-06-22,P103,Laptop Stand,Office,1299,22,C1019,90
+2026-06-22,P104,Noise Cancelling Headphones,Audio,5999,17,C1032,74
+2026-06-22,P105,Bluetooth Speaker,Audio,2999,11,C1031,73
+2026-06-22,P106,Webcam HD,Accessories,1899,10,C1016,79
+2026-06-22,P107,Desk Lamp,Office,999,18,C1024,141
+2026-06-22,P108,Power Bank,Mobile,1799,11,C1037,97
+2026-06-22,P109,Phone Case,Mobile,499,46,C1034,130
+2026-06-23,P100,Wireless Mouse,Accessories,799,44,C1005,187
+2026-06-23,P101,Mechanical Keyboard,Accessories,2499,13,C1021,102
+2026-06-23,P102,USB-C Hub,Accessories,1599,19,C1037,84
+2026-06-23,P103,Laptop Stand,Office,1299,27,C1007,71
+2026-06-23,P104,Noise Cancelling Headphones,Audio,5999,19,C1033,59
+2026-06-23,P105,Bluetooth Speaker,Audio,2999,10,C1009,94
+2026-06-23,P106,Webcam HD,Accessories,1899,9,C1015,93
+2026-06-23,P107,Desk Lamp,Office,999,28,C1020,90
+2026-06-23,P108,Power Bank,Mobile,1799,15,C1002,104
+2026-06-23,P109,Phone Case,Mobile,499,24,C1013,250
+2026-06-24,P100,Wireless Mouse,Accessories,799,26,C1037,174
+2026-06-24,P101,Mechanical Keyboard,Accessories,2499,20,C1029,74
+2026-06-24,P102,USB-C Hub,Accessories,1599,10,C1012,84
+2026-06-24,P103,Laptop Stand,Office,1299,14,C1032,75
+2026-06-24,P104,Noise Cancelling Headphones,Audio,5999,15,C1008,70
+2026-06-24,P105,Bluetooth Speaker,Audio,2999,12,C1009,73
+2026-06-24,P106,Webcam HD,Accessories,1899,17,C1015,58
+2026-06-24,P107,Desk Lamp,Office,999,19,C1026,121
+2026-06-24,P108,Power Bank,Mobile,1799,14,C1025,104
+2026-06-24,P109,Phone Case,Mobile,499,54,C1039,207
+2026-06-25,P100,Wireless Mouse,Accessories,799,35,C1004,132
+2026-06-25,P101,Mechanical Keyboard,Accessories,2499,27,C1016,80
+2026-06-25,P102,USB-C Hub,Accessories,1599,21,C1037,77
+2026-06-25,P103,Laptop Stand,Office,1299,31,C1026,129
+2026-06-25,P104,Noise Cancelling Headphones,Audio,5999,19,C1034,42
+2026-06-25,P105,Bluetooth Speaker,Audio,2999,13,C1023,88
+2026-06-25,P106,Webcam HD,Accessories,1899,13,C1001,67
+2026-06-25,P107,Desk Lamp,Office,999,24,C1005,118
+2026-06-25,P108,Power Bank,Mobile,1799,17,C1002,69
+2026-06-25,P109,Phone Case,Mobile,499,35,C1026,184
+2026-06-26,P100,Wireless Mouse,Accessories,799,46,C1003,184
+2026-06-26,P101,Mechanical Keyboard,Accessories,2499,29,C1003,113
+2026-06-26,P102,USB-C Hub,Accessories,1599,10,C1018,73
+2026-06-26,P103,Laptop Stand,Office,1299,36,C1035,109
+2026-06-26,P104,Noise Cancelling Headphones,Audio,5999,20,C1007,41
+2026-06-26,P105,Bluetooth Speaker,Audio,2999,16,C1028,79
+2026-06-26,P106,Webcam HD,Accessories,1899,14,C1008,49
+2026-06-26,P107,Desk Lamp,Office,999,25,C1008,127
+2026-06-26,P108,Power Bank,Mobile,1799,13,C1033,112
+2026-06-26,P109,Phone Case,Mobile,499,68,C1038,140
+2026-06-27,P100,Wireless Mouse,Accessories,799,43,C1008,109
+2026-06-27,P101,Mechanical Keyboard,Accessories,2499,27,C1027,113
+2026-06-27,P102,USB-C Hub,Accessories,1599,21,C1006,57
+2026-06-27,P103,Laptop Stand,Office,1299,36,C1030,86
+2026-06-27,P104,Noise Cancelling Headphones,Audio,5999,19,C1025,62
+2026-06-27,P105,Bluetooth Speaker,Audio,2999,17,C1030,89
+2026-06-27,P106,Webcam HD,Accessories,1899,28,C1031,61
+2026-06-27,P107,Desk Lamp,Office,999,33,C1016,101
+2026-06-27,P108,Power Bank,Mobile,1799,22,C1035,68
+2026-06-27,P109,Phone Case,Mobile,499,51,C1001,206
+2026-06-28,P100,Wireless Mouse,Accessories,799,55,C1016,110
+2026-06-28,P101,Mechanical Keyboard,Accessories,2499,21,C1018,79
+2026-06-28,P102,USB-C Hub,Accessories,1599,15,C1019,89
+2026-06-28,P103,Laptop Stand,Office,1299,17,C1036,68
+2026-06-28,P104,Noise Cancelling Headphones,Audio,5999,10,C1029,74
+2026-06-28,P105,Bluetooth Speaker,Audio,2999,25,C1029,79
+2026-06-28,P106,Webcam HD,Accessories,1899,17,C1034,83
+2026-06-28,P107,Desk Lamp,Office,999,24,C1010,151
+2026-06-28,P108,Power Bank,Mobile,1799,22,C1009,95
+2026-06-28,P109,Phone Case,Mobile,499,63,C1018,210
+2026-06-29,P100,Wireless Mouse,Accessories,799,39,C1031,144
+2026-06-29,P101,Mechanical Keyboard,Accessories,2499,15,C1009,97
+2026-06-29,P102,USB-C Hub,Accessories,1599,13,C1027,49
+2026-06-29,P103,Laptop Stand,Office,1299,26,C1032,107
+2026-06-29,P104,Noise Cancelling Headphones,Audio,5999,11,C1010,79
+2026-06-29,P105,Bluetooth Speaker,Audio,2999,15,C1040,93
+2026-06-29,P106,Webcam HD,Accessories,1899,16,C1029,65
+2026-06-29,P107,Desk Lamp,Office,999,29,C1023,99
+2026-06-29,P108,Power Bank,Mobile,1799,15,C1036,79
+2026-06-29,P109,Phone Case,Mobile,499,45,C1001,214
+2026-06-30,P100,Wireless Mouse,Accessories,799,39,C1032,175
+2026-06-30,P101,Mechanical Keyboard,Accessories,2499,17,C1035,78
+2026-06-30,P102,USB-C Hub,Accessories,1599,12,C1037,51
+2026-06-30,P103,Laptop Stand,Office,1299,19,C1022,83
+2026-06-30,P104,Noise Cancelling Headphones,Audio,5999,11,C1016,73
+2026-06-30,P105,Bluetooth Speaker,Audio,2999,24,C1028,63
+2026-06-30,P106,Webcam HD,Accessories,1899,21,C1002,92
+2026-06-30,P107,Desk Lamp,Office,999,15,C1032,121
+2026-06-30,P108,Power Bank,Mobile,1799,15,C1020,88
+2026-06-30,P109,Phone Case,Mobile,499,43,C1034,259
+2026-07-01,P100,Wireless Mouse,Accessories,799,42,C1028,164
+2026-07-01,P101,Mechanical Keyboard,Accessories,2499,19,C1039,81
+2026-07-01,P102,USB-C Hub,Accessories,1599,18,C1001,65
+2026-07-01,P103,Laptop Stand,Office,1299,27,C1007,102
+2026-07-01,P104,Noise Cancelling Headphones,Audio,5999,13,C1036,60
+2026-07-01,P105,Bluetooth Speaker,Audio,2999,25,C1013,60
+2026-07-01,P106,Webcam HD,Accessories,1899,23,C1029,70
+2026-07-01,P107,Desk Lamp,Office,999,33,C1038,147
+2026-07-01,P108,Power Bank,Mobile,1799,17,C1006,87
+2026-07-01,P109,Phone Case,Mobile,499,31,C1005,171
+2026-07-02,P100,Wireless Mouse,Accessories,799,43,C1008,143
+2026-07-02,P101,Mechanical Keyboard,Accessories,2499,24,C1022,77
+2026-07-02,P102,USB-C Hub,Accessories,1599,20,C1027,89
+2026-07-02,P103,Laptop Stand,Office,1299,26,C1033,102
+2026-07-02,P104,Noise Cancelling Headphones,Audio,5999,10,C1027,75
+2026-07-02,P105,Bluetooth Speaker,Audio,2999,13,C1039,85
+2026-07-02,P106,Webcam HD,Accessories,1899,11,C1003,74
+2026-07-02,P107,Desk Lamp,Office,999,32,C1001,78
+2026-07-02,P108,Power Bank,Mobile,1799,17,C1001,97
+2026-07-02,P109,Phone Case,Mobile,499,62,C1007,181
+2026-07-03,P100,Wireless Mouse,Accessories,799,39,C1013,158
+2026-07-03,P101,Mechanical Keyboard,Accessories,2499,16,C1037,106
+2026-07-03,P102,USB-C Hub,Accessories,1599,13,C1035,74
+2026-07-03,P103,Laptop Stand,Office,1299,26,C1013,77
+2026-07-03,P104,Noise Cancelling Headphones,Audio,5999,14,C1011,44
+2026-07-03,P105,Bluetooth Speaker,Audio,2999,20,C1002,79
+2026-07-03,P106,Webcam HD,Accessories,1899,11,C1034,55
+2026-07-03,P107,Desk Lamp,Office,999,29,C1028,113
+2026-07-03,P108,Power Bank,Mobile,1799,28,C1001,61
+2026-07-03,P109,Phone Case,Mobile,499,57,C1010,205
+2026-07-04,P100,Wireless Mouse,Accessories,799,49,C1011,128
+2026-07-04,P101,Mechanical Keyboard,Accessories,2499,15,C1038,97
+2026-07-04,P102,USB-C Hub,Accessories,1599,12,C1040,53
+2026-07-04,P103,Laptop Stand,Office,1299,26,C1026,71
+2026-07-04,P104,Noise Cancelling Headphones,Audio,5999,19,C1029,78
+2026-07-04,P105,Bluetooth Speaker,Audio,2999,14,C1015,65
+2026-07-04,P106,Webcam HD,Accessories,1899,12,C1012,91
+2026-07-04,P107,Desk Lamp,Office,999,28,C1030,147
+2026-07-04,P108,Power Bank,Mobile,1799,21,C1032,92
+2026-07-04,P109,Phone Case,Mobile,499,81,C1025,138
+2026-07-05,P100,Wireless Mouse,Accessories,799,45,C1027,150
+2026-07-05,P101,Mechanical Keyboard,Accessories,2499,20,C1032,112
+2026-07-05,P102,USB-C Hub,Accessories,1599,11,C1006,84
+2026-07-05,P103,Laptop Stand,Office,1299,20,C1012,91
+2026-07-05,P104,Noise Cancelling Headphones,Audio,5999,9,C1026,75
+2026-07-05,P105,Bluetooth Speaker,Audio,2999,23,C1035,58
+2026-07-05,P106,Webcam HD,Accessories,1899,26,C1005,63
+2026-07-05,P107,Desk Lamp,Office,999,45,C1023,110
+2026-07-05,P108,Power Bank,Mobile,1799,25,C1030,79
+2026-07-05,P109,Phone Case,Mobile,499,43,C1003,160
+2026-07-06,P100,Wireless Mouse,Accessories,799,24,C1010,97
+2026-07-06,P101,Mechanical Keyboard,Accessories,2499,14,C1013,67
+2026-07-06,P102,USB-C Hub,Accessories,1599,11,C1009,82
+2026-07-06,P103,Laptop Stand,Office,1299,22,C1016,99
+2026-07-06,P104,Noise Cancelling Headphones,Audio,5999,9,C1026,54
+2026-07-06,P105,Bluetooth Speaker,Audio,2999,15,C1014,102
+2026-07-06,P106,Webcam HD,Accessories,1899,12,C1014,70
+2026-07-06,P107,Desk Lamp,Office,999,18,C1009,112
+2026-07-06,P108,Power Bank,Mobile,1799,25,C1039,114
+2026-07-06,P109,Phone Case,Mobile,499,55,C1024,206
+2026-07-07,P100,Wireless Mouse,Accessories,799,31,C1033,133
+2026-07-07,P101,Mechanical Keyboard,Accessories,2499,14,C1008,112
+2026-07-07,P102,USB-C Hub,Accessories,1599,17,C1018,49
+2026-07-07,P103,Laptop Stand,Office,1299,26,C1002,119
+2026-07-07,P104,Noise Cancelling Headphones,Audio,5999,15,C1020,62
+2026-07-07,P105,Bluetooth Speaker,Audio,2999,9,C1012,89
+2026-07-07,P106,Webcam HD,Accessories,1899,19,C1013,58
+2026-07-07,P107,Desk Lamp,Office,999,28,C1036,85
+2026-07-07,P108,Power Bank,Mobile,1799,25,C1020,103
+2026-07-07,P109,Phone Case,Mobile,499,30,C1006,223
+2026-07-08,P100,Wireless Mouse,Accessories,799,24,C1026,106
+2026-07-08,P101,Mechanical Keyboard,Accessories,2499,16,C1030,84
+2026-07-08,P102,USB-C Hub,Accessories,1599,19,C1009,84
+2026-07-08,P103,Laptop Stand,Office,1299,32,C1024,79
+2026-07-08,P104,Noise Cancelling Headphones,Audio,5999,16,C1023,66
+2026-07-08,P105,Bluetooth Speaker,Audio,2999,24,C1030,53
+2026-07-08,P106,Webcam HD,Accessories,1899,13,C1023,87
+2026-07-08,P107,Desk Lamp,Office,999,36,C1019,85
+2026-07-08,P108,Power Bank,Mobile,1799,13,C1015,109
+2026-07-08,P109,Phone Case,Mobile,499,53,C1003,135
+2026-07-09,P100,Wireless Mouse,Accessories,799,36,C1020,135
+2026-07-09,P101,Mechanical Keyboard,Accessories,2499,14,C1036,104
+2026-07-09,P102,USB-C Hub,Accessories,1599,13,C1012,73
+2026-07-09,P103,Laptop Stand,Office,1299,25,C1032,82
+2026-07-09,P104,Noise Cancelling Headphones,Audio,5999,17,C1028,50
+2026-07-09,P105,Bluetooth Speaker,Audio,2999,21,C1001,82
+2026-07-09,P106,Webcam HD,Accessories,1899,11,C1019,83
+2026-07-09,P107,Desk Lamp,Office,999,37,C1038,145
+2026-07-09,P108,Power Bank,Mobile,1799,22,C1016,60
+2026-07-09,P109,Phone Case,Mobile,499,53,C1021,134
+2026-07-10,P100,Wireless Mouse,Accessories,799,27,C1006,181
+2026-07-10,P101,Mechanical Keyboard,Accessories,2499,21,C1040,104
+2026-07-10,P102,USB-C Hub,Accessories,1599,22,C1006,57
+2026-07-10,P103,Laptop Stand,Office,1299,22,C1029,131
+2026-07-10,P104,Noise Cancelling Headphones,Audio,5999,21,C1029,67
+2026-07-10,P105,Bluetooth Speaker,Audio,2999,20,C1014,88
+2026-07-10,P106,Webcam HD,Accessories,1899,17,C1009,71
+2026-07-10,P107,Desk Lamp,Office,999,29,C1036,92
+2026-07-10,P108,Power Bank,Mobile,1799,17,C1016,88
+2026-07-10,P109,Phone Case,Mobile,499,51,C1004,162
+2026-07-11,P100,Wireless Mouse,Accessories,799,29,C1006,127
+2026-07-11,P101,Mechanical Keyboard,Accessories,2499,19,C1009,78
+2026-07-11,P102,USB-C Hub,Accessories,1599,23,C1031,66
+2026-07-11,P103,Laptop Stand,Office,1299,23,C1033,83
+2026-07-11,P104,Noise Cancelling Headphones,Audio,5999,21,C1023,45
+2026-07-11,P105,Bluetooth Speaker,Audio,2999,27,C1010,59
+2026-07-11,P106,Webcam HD,Accessories,1899,22,C1008,58
+2026-07-11,P107,Desk Lamp,Office,999,35,C1011,136
+2026-07-11,P108,Power Bank,Mobile,1799,29,C1030,66
+2026-07-11,P109,Phone Case,Mobile,499,74,C1014,182
+2026-07-12,P100,Wireless Mouse,Accessories,799,26,C1024,122
+2026-07-12,P101,Mechanical Keyboard,Accessories,2499,25,C1018,62
+2026-07-12,P102,USB-C Hub,Accessories,1599,15,C1020,49
+2026-07-12,P103,Laptop Stand,Office,1299,27,C1021,75
+2026-07-12,P104,Noise Cancelling Headphones,Audio,5999,16,C1019,62
+2026-07-12,P105,Bluetooth Speaker,Audio,2999,15,C1001,56
+2026-07-12,P106,Webcam HD,Accessories,1899,19,C1032,94
+2026-07-12,P107,Desk Lamp,Office,999,20,C1037,133
+2026-07-12,P108,Power Bank,Mobile,1799,19,C1028,94
+2026-07-12,P109,Phone Case,Mobile,499,53,C1021,231
+2026-07-13,P100,Wireless Mouse,Accessories,799,17,C1019,182
+2026-07-13,P101,Mechanical Keyboard,Accessories,2499,21,C1017,116
+2026-07-13,P102,USB-C Hub,Accessories,1599,16,C1002,48
+2026-07-13,P103,Laptop Stand,Office,1299,12,C1010,94
+2026-07-13,P104,Noise Cancelling Headphones,Audio,5999,10,C1034,47
+2026-07-13,P105,Bluetooth Speaker,Audio,2999,22,C1011,101
+2026-07-13,P106,Webcam HD,Accessories,1899,10,C1020,81
+2026-07-13,P107,Desk Lamp,Office,999,30,C1012,102
+2026-07-13,P108,Power Bank,Mobile,1799,21,C1015,77
+2026-07-13,P109,Phone Case,Mobile,499,36,C1024,201
+2026-07-14,P100,Wireless Mouse,Accessories,799,40,C1004,119
+2026-07-14,P101,Mechanical Keyboard,Accessories,2499,12,C1026,94
+2026-07-14,P102,USB-C Hub,Accessories,1599,20,C1032,87
+2026-07-14,P103,Laptop Stand,Office,1299,21,C1020,116
+2026-07-14,P104,Noise Cancelling Headphones,Audio,5999,14,C1010,65
+2026-07-14,P105,Bluetooth Speaker,Audio,2999,20,C1029,61
+2026-07-14,P106,Webcam HD,Accessories,1899,17,C1003,66
+2026-07-14,P107,Desk Lamp,Office,999,33,C1014,114
+2026-07-14,P108,Power Bank,Mobile,1799,23,C1040,57
+2026-07-14,P109,Phone Case,Mobile,499,56,C1028,232
+2026-07-15,P100,Wireless Mouse,Accessories,799,27,C1004,101
+2026-07-15,P101,Mechanical Keyboard,Accessories,2499,26,C1022,85
+2026-07-15,P102,USB-C Hub,Accessories,1599,11,C1012,45
+2026-07-15,P103,Laptop Stand,Office,1299,39,C1019,78
+2026-07-15,P104,Noise Cancelling Headphones,Audio,5999,9,C1023,72
+2026-07-15,P105,Bluetooth Speaker,Audio,2999,23,C1035,77
+2026-07-15,P106,Webcam HD,Accessories,1899,17,C1035,69
+2026-07-15,P107,Desk Lamp,Office,999,45,C1026,144
+2026-07-15,P108,Power Bank,Mobile,1799,34,C1004,93
+2026-07-15,P109,Phone Case,Mobile,499,66,C1020,173
+2026-07-16,P100,Wireless Mouse,Accessories,799,43,C1024,135
+2026-07-16,P101,Mechanical Keyboard,Accessories,2499,25,C1020,98
+2026-07-16,P102,USB-C Hub,Accessories,1599,26,C1002,68
+2026-07-16,P103,Laptop Stand,Office,1299,38,C1029,82
+2026-07-16,P104,Noise Cancelling Headphones,Audio,5999,20,C1038,45
+2026-07-16,P105,Bluetooth Speaker,Audio,2999,20,C1027,82
+2026-07-16,P106,Webcam HD,Accessories,1899,18,C1029,58
+2026-07-16,P107,Desk Lamp,Office,999,30,C1012,86
+2026-07-16,P108,Power Bank,Mobile,1799,35,C1008,69
+2026-07-16,P109,Phone Case,Mobile,499,42,C1007,238
+2026-07-17,P100,Wireless Mouse,Accessories,799,32,C1032,158
+2026-07-17,P101,Mechanical Keyboard,Accessories,2499,21,C1035,87
+2026-07-17,P102,USB-C Hub,Accessories,1599,22,C1033,50
+2026-07-17,P103,Laptop Stand,Office,1299,43,C1027,105
+2026-07-17,P104,Noise Cancelling Headphones,Audio,5999,22,C1009,72
+2026-07-17,P105,Bluetooth Speaker,Audio,2999,33,C1008,81
+2026-07-17,P106,Webcam HD,Accessories,1899,25,C1033,93
+2026-07-17,P107,Desk Lamp,Office,999,23,C1026,141
+2026-07-17,P108,Power Bank,Mobile,1799,28,C1013,113
+2026-07-17,P109,Phone Case,Mobile,499,64,C1009,230
+2026-07-18,P100,Wireless Mouse,Accessories,799,46,C1026,153
+2026-07-18,P101,Mechanical Keyboard,Accessories,2499,25,C1001,82
+2026-07-18,P102,USB-C Hub,Accessories,1599,29,C1030,88
+2026-07-18,P103,Laptop Stand,Office,1299,30,C1028,115
+2026-07-18,P104,Noise Cancelling Headphones,Audio,5999,30,C1013,43
+2026-07-18,P105,Bluetooth Speaker,Audio,2999,30,C1023,100
+2026-07-18,P106,Webcam HD,Accessories,1899,18,C1022,82
+2026-07-18,P107,Desk Lamp,Office,999,54,C1001,134
+2026-07-18,P108,Power Bank,Mobile,1799,40,C1024,64
+2026-07-18,P109,Phone Case,Mobile,499,71,C1023,198
+2026-07-19,P100,Wireless Mouse,Accessories,799,59,C1039,99
+2026-07-19,P101,Mechanical Keyboard,Accessories,2499,27,C1021,81
+2026-07-19,P102,USB-C Hub,Accessories,1599,29,C1016,50
+2026-07-19,P103,Laptop Stand,Office,1299,27,C1029,80
+2026-07-19,P104,Noise Cancelling Headphones,Audio,5999,12,C1029,79
+2026-07-19,P105,Bluetooth Speaker,Audio,2999,18,C1008,53
+2026-07-19,P106,Webcam HD,Accessories,1899,15,C1010,59
+2026-07-19,P107,Desk Lamp,Office,999,42,C1025,99
+2026-07-19,P108,Power Bank,Mobile,1799,39,C1017,91
+2026-07-19,P109,Phone Case,Mobile,499,69,C1018,219
+2026-07-20,P100,Wireless Mouse,Accessories,799,44,C1022,96
+2026-07-20,P101,Mechanical Keyboard,Accessories,2499,29,C1031,89
+2026-07-20,P102,USB-C Hub,Accessories,1599,20,C1003,81
+2026-07-20,P103,Laptop Stand,Office,1299,14,C1039,109
+2026-07-20,P104,Noise Cancelling Headphones,Audio,5999,12,C1011,59
+2026-07-20,P105,Bluetooth Speaker,Audio,2999,20,C1015,76
+2026-07-20,P106,Webcam HD,Accessories,1899,21,C1005,76
+2026-07-20,P107,Desk Lamp,Office,999,22,C1020,118
+2026-07-20,P108,Power Bank,Mobile,1799,26,C1003,91
+2026-07-20,P109,Phone Case,Mobile,499,32,C1030,236
+2026-07-21,P100,Wireless Mouse,Accessories,799,27,C1023,139
+2026-07-21,P101,Mechanical Keyboard,Accessories,2499,17,C1031,80
+2026-07-21,P102,USB-C Hub,Accessories,1599,13,C1030,45
+2026-07-21,P103,Laptop Stand,Office,1299,31,C1010,108
+2026-07-21,P104,Noise Cancelling Headphones,Audio,5999,16,C1025,45
+2026-07-21,P105,Bluetooth Speaker,Audio,2999,14,C1017,78
+2026-07-21,P106,Webcam HD,Accessories,1899,14,C1038,74
+2026-07-21,P107,Desk Lamp,Office,999,37,C1003,154
+2026-07-21,P108,Power Bank,Mobile,1799,27,C1007,109
+2026-07-21,P109,Phone Case,Mobile,499,59,C1037,230
+2026-07-22,P100,Wireless Mouse,Accessories,799,39,C1019,129
+2026-07-22,P101,Mechanical Keyboard,Accessories,2499,28,C1010,74
+2026-07-22,P102,USB-C Hub,Accessories,1599,19,C1022,58
+2026-07-22,P103,Laptop Stand,Office,1299,30,C1016,101
+2026-07-22,P104,Noise Cancelling Headphones,Audio,5999,13,C1026,62
+2026-07-22,P105,Bluetooth Speaker,Audio,2999,16,C1021,89
+2026-07-22,P106,Webcam HD,Accessories,1899,23,C1033,84
+2026-07-22,P107,Desk Lamp,Office,999,25,C1016,96
+2026-07-22,P108,Power Bank,Mobile,1799,30,C1014,66
+2026-07-22,P109,Phone Case,Mobile,499,26,C1030,243
+2026-07-23,P100,Wireless Mouse,Accessories,799,33,C1020,132
+2026-07-23,P101,Mechanical Keyboard,Accessories,2499,31,C1010,95
+2026-07-23,P102,USB-C Hub,Accessories,1599,14,C1037,58
+2026-07-23,P103,Laptop Stand,Office,1299,26,C1022,130
+2026-07-23,P104,Noise Cancelling Headphones,Audio,5999,9,C1006,47
+2026-07-23,P105,Bluetooth Speaker,Audio,2999,21,C1023,68
+2026-07-23,P106,Webcam HD,Accessories,1899,26,C1028,64
+2026-07-23,P107,Desk Lamp,Office,999,35,C1032,148
+2026-07-23,P108,Power Bank,Mobile,1799,18,C1017,67
+2026-07-23,P109,Phone Case,Mobile,499,51,C1018,228
+2026-07-24,P100,Wireless Mouse,Accessories,799,30,C1004,96
+2026-07-24,P101,Mechanical Keyboard,Accessories,2499,22,C1039,72
+2026-07-24,P102,USB-C Hub,Accessories,1599,15,C1007,67
+2026-07-24,P103,Laptop Stand,Office,1299,20,C1009,117
+2026-07-24,P104,Noise Cancelling Headphones,Audio,5999,18,C1037,43
+2026-07-24,P105,Bluetooth Speaker,Audio,2999,18,C1013,59
+2026-07-24,P106,Webcam HD,Accessories,1899,15,C1001,78
+2026-07-24,P107,Desk Lamp,Office,999,36,C1014,149
+2026-07-24,P108,Power Bank,Mobile,1799,20,C1002,107
+2026-07-24,P109,Phone Case,Mobile,499,60,C1022,182
+2026-07-25,P100,Wireless Mouse,Accessories,799,32,C1003,177
+2026-07-25,P101,Mechanical Keyboard,Accessories,2499,18,C1032,96
+2026-07-25,P102,USB-C Hub,Accessories,1599,31,C1030,62
+2026-07-25,P103,Laptop Stand,Office,1299,43,C1021,69
+2026-07-25,P104,Noise Cancelling Headphones,Audio,5999,20,C1004,79
+2026-07-25,P105,Bluetooth Speaker,Audio,2999,23,C1022,89
+2026-07-25,P106,Webcam HD,Accessories,1899,16,C1014,48
+2026-07-25,P107,Desk Lamp,Office,999,25,C1006,136
+2026-07-25,P108,Power Bank,Mobile,1799,24,C1023,78
+2026-07-25,P109,Phone Case,Mobile,499,64,C1036,206
+2026-07-26,P100,Wireless Mouse,Accessories,799,30,C1037,188
+2026-07-26,P101,Mechanical Keyboard,Accessories,2499,23,C1017,104
+2026-07-26,P102,USB-C Hub,Accessories,1599,26,C1003,66
+2026-07-26,P103,Laptop Stand,Office,1299,38,C1036,88
+2026-07-26,P104,Noise Cancelling Headphones,Audio,5999,26,C1018,58
+2026-07-26,P105,Bluetooth Speaker,Audio,2999,21,C1018,80
+2026-07-26,P106,Webcam HD,Accessories,1899,14,C1031,47
+2026-07-26,P107,Desk Lamp,Office,999,22,C1024,140
+2026-07-26,P108,Power Bank,Mobile,1799,18,C1026,93
+2026-07-26,P109,Phone Case,Mobile,499,72,C1002,141
+2026-07-27,P100,Wireless Mouse,Accessories,799,37,C1035,106
+2026-07-27,P101,Mechanical Keyboard,Accessories,2499,21,C1012,93
+2026-07-27,P102,USB-C Hub,Accessories,1599,12,C1010,72
+2026-07-27,P103,Laptop Stand,Office,1299,32,C1011,126
+2026-07-27,P104,Noise Cancelling Headphones,Audio,5999,14,C1016,54
+2026-07-27,P105,Bluetooth Speaker,Audio,2999,17,C1014,97
+2026-07-27,P106,Webcam HD,Accessories,1899,18,C1025,63
+2026-07-27,P107,Desk Lamp,Office,999,26,C1002,102
+2026-07-27,P108,Power Bank,Mobile,1799,13,C1005,99
+2026-07-27,P109,Phone Case,Mobile,499,58,C1023,248
+2026-07-28,P100,Wireless Mouse,Accessories,799,21,C1027,148
+2026-07-28,P101,Mechanical Keyboard,Accessories,2499,29,C1015,82
+2026-07-28,P102,USB-C Hub,Accessories,1599,9,C1028,45
+2026-07-28,P103,Laptop Stand,Office,1299,19,C1021,91
+2026-07-28,P104,Noise Cancelling Headphones,Audio,5999,18,C1020,65
+2026-07-28,P105,Bluetooth Speaker,Audio,2999,25,C1037,78
+2026-07-28,P106,Webcam HD,Accessories,1899,21,C1018,70
+2026-07-28,P107,Desk Lamp,Office,999,39,C1020,88
+2026-07-28,P108,Power Bank,Mobile,1799,17,C1032,76
+2026-07-28,P109,Phone Case,Mobile,499,62,C1021,162
+2026-07-29,P100,Wireless Mouse,Accessories,799,42,C1029,151
+2026-07-29,P101,Mechanical Keyboard,Accessories,2499,17,C1014,63
+2026-07-29,P102,USB-C Hub,Accessories,1599,23,C1003,78
+2026-07-29,P103,Laptop Stand,Office,1299,32,C1012,125
+2026-07-29,P104,Noise Cancelling Headphones,Audio,5999,14,C1020,45
+2026-07-29,P105,Bluetooth Speaker,Audio,2999,23,C1010,94
+2026-07-29,P106,Webcam HD,Accessories,1899,26,C1020,47
+2026-07-29,P107,Desk Lamp,Office,999,20,C1007,134
+2026-07-29,P108,Power Bank,Mobile,1799,27,C1026,84
+2026-07-29,P109,Phone Case,Mobile,499,31,C1026,174
+2026-07-30,P100,Wireless Mouse,Accessories,799,50,C1003,188
+2026-07-30,P101,Mechanical Keyboard,Accessories,2499,25,C1001,72
+2026-07-30,P102,USB-C Hub,Accessories,1599,10,C1015,67
+2026-07-30,P103,Laptop Stand,Office,1299,28,C1002,114
+2026-07-30,P104,Noise Cancelling Headphones,Audio,5999,9,C1005,75
+2026-07-30,P105,Bluetooth Speaker,Audio,2999,28,C1032,58
+2026-07-30,P106,Webcam HD,Accessories,1899,27,C1001,72
+2026-07-30,P107,Desk Lamp,Office,999,22,C1010,130
+2026-07-30,P108,Power Bank,Mobile,1799,25,C1008,88
+2026-07-30,P109,Phone Case,Mobile,499,53,C1005,239
+2026-07-31,P100,Wireless Mouse,Accessories,799,35,C1015,115
+2026-07-31,P101,Mechanical Keyboard,Accessories,2499,31,C1012,76
+2026-07-31,P102,USB-C Hub,Accessories,1599,11,C1003,57
+2026-07-31,P103,Laptop Stand,Office,1299,21,C1036,70
+2026-07-31,P104,Noise Cancelling Headphones,Audio,5999,24,C1021,50
+2026-07-31,P105,Bluetooth Speaker,Audio,2999,26,C1035,86
+2026-07-31,P106,Webcam HD,Accessories,1899,16,C1027,63
+2026-07-31,P107,Desk Lamp,Office,999,48,C1018,145
+2026-07-31,P108,Power Bank,Mobile,1799,22,C1027,75
+2026-07-31,P109,Phone Case,Mobile,499,50,C1025,149
+2026-08-01,P100,Wireless Mouse,Accessories,799,64,C1001,171
+2026-08-01,P101,Mechanical Keyboard,Accessories,2499,23,C1017,90
+2026-08-01,P102,USB-C Hub,Accessories,1599,26,C1016,77
+2026-08-01,P103,Laptop Stand,Office,1299,44,C1006,112
+2026-08-01,P104,Noise Cancelling Headphones,Audio,5999,26,C1004,71
+2026-08-01,P105,Bluetooth Speaker,Audio,2999,24,C1029,81
+2026-08-01,P106,Webcam HD,Accessories,1899,25,C1037,62
+2026-08-01,P107,Desk Lamp,Office,999,21,C1031,135
+2026-08-01,P108,Power Bank,Mobile,1799,29,C1025,91
+2026-08-01,P109,Phone Case,Mobile,499,50,C1025,211
+2026-08-02,P100,Wireless Mouse,Accessories,799,39,C1034,101
+2026-08-02,P101,Mechanical Keyboard,Accessories,2499,23,C1021,99
+2026-08-02,P102,USB-C Hub,Accessories,1599,13,C1015,80
+2026-08-02,P103,Laptop Stand,Office,1299,44,C1017,119
+2026-08-02,P104,Noise Cancelling Headphones,Audio,5999,26,C1023,58
+2026-08-02,P105,Bluetooth Speaker,Audio,2999,26,C1015,77
+2026-08-02,P106,Webcam HD,Accessories,1899,33,C1034,50
+2026-08-02,P107,Desk Lamp,Office,999,32,C1011,93
+2026-08-02,P108,Power Bank,Mobile,1799,35,C1012,71
+2026-08-02,P109,Phone Case,Mobile,499,43,C1012,216
+2026-08-03,P100,Wireless Mouse,Accessories,799,39,C1003,173
+2026-08-03,P101,Mechanical Keyboard,Accessories,2499,18,C1028,81
+2026-08-03,P102,USB-C Hub,Accessories,1599,11,C1017,51
+2026-08-03,P103,Laptop Stand,Office,1299,22,C1034,92
+2026-08-03,P104,Noise Cancelling Headphones,Audio,5999,15,C1006,58
+2026-08-03,P105,Bluetooth Speaker,Audio,2999,15,C1029,67
+2026-08-03,P106,Webcam HD,Accessories,1899,20,C1031,68
+2026-08-03,P107,Desk Lamp,Office,999,34,C1034,91
+2026-08-03,P108,Power Bank,Mobile,1799,14,C1024,96
+2026-08-03,P109,Phone Case,Mobile,499,47,C1040,215
+2026-08-04,P100,Wireless Mouse,Accessories,799,32,C1025,127
+2026-08-04,P101,Mechanical Keyboard,Accessories,2499,18,C1001,93
+2026-08-04,P102,USB-C Hub,Accessories,1599,18,C1012,47
+2026-08-04,P103,Laptop Stand,Office,1299,21,C1021,104
+2026-08-04,P104,Noise Cancelling Headphones,Audio,5999,12,C1029,50
+2026-08-04,P105,Bluetooth Speaker,Audio,2999,13,C1006,85
+2026-08-04,P106,Webcam HD,Accessories,1899,13,C1019,67
+2026-08-04,P107,Desk Lamp,Office,999,32,C1003,106
+2026-08-04,P108,Power Bank,Mobile,1799,26,C1003,79
+2026-08-04,P109,Phone Case,Mobile,499,58,C1027,168
+2026-08-05,P100,Wireless Mouse,Accessories,799,36,C1017,152
+2026-08-05,P101,Mechanical Keyboard,Accessories,2499,21,C1038,83
+2026-08-05,P102,USB-C Hub,Accessories,1599,12,C1038,72
+2026-08-05,P103,Laptop Stand,Office,1299,24,C1022,112
+2026-08-05,P104,Noise Cancelling Headphones,Audio,5999,21,C1029,43
+2026-08-05,P105,Bluetooth Speaker,Audio,2999,19,C1032,80
+2026-08-05,P106,Webcam HD,Accessories,1899,27,C1002,78
+2026-08-05,P107,Desk Lamp,Office,999,20,C1030,121
+2026-08-05,P108,Power Bank,Mobile,1799,27,C1031,82
+2026-08-05,P109,Phone Case,Mobile,499,37,C1026,138
+2026-08-06,P100,Wireless Mouse,Accessories,799,39,C1001,143
+2026-08-06,P101,Mechanical Keyboard,Accessories,2499,29,C1026,104
+2026-08-06,P102,USB-C Hub,Accessories,1599,19,C1019,86
+2026-08-06,P103,Laptop Stand,Office,1299,29,C1030,119
+2026-08-06,P104,Noise Cancelling Headphones,Audio,5999,11,C1005,48
+2026-08-06,P105,Bluetooth Speaker,Audio,2999,23,C1032,53
+2026-08-06,P106,Webcam HD,Accessories,1899,12,C1037,83
+2026-08-06,P107,Desk Lamp,Office,999,31,C1013,141
+2026-08-06,P108,Power Bank,Mobile,1799,28,C1004,85
+2026-08-06,P109,Phone Case,Mobile,499,56,C1038,227
+2026-08-07,P100,Wireless Mouse,Accessories,799,29,C1004,133
+2026-08-07,P101,Mechanical Keyboard,Accessories,2499,36,C1022,68
+2026-08-07,P102,USB-C Hub,Accessories,1599,15,C1012,89
+2026-08-07,P103,Laptop Stand,Office,1299,44,C1017,86
+2026-08-07,P104,Noise Cancelling Headphones,Audio,5999,11,C1020,55
+2026-08-07,P105,Bluetooth Speaker,Audio,2999,25,C1027,79
+2026-08-07,P106,Webcam HD,Accessories,1899,25,C1016,62
+2026-08-07,P107,Desk Lamp,Office,999,47,C1035,139
+2026-08-07,P108,Power Bank,Mobile,1799,20,C1004,69
+2026-08-07,P109,Phone Case,Mobile,499,43,C1030,214
+2026-08-08,P100,Wireless Mouse,Accessories,799,57,C1010,162
+2026-08-08,P101,Mechanical Keyboard,Accessories,2499,28,C1013,108
+2026-08-08,P102,USB-C Hub,Accessories,1599,23,C1004,76
+2026-08-08,P103,Laptop Stand,Office,1299,43,C1005,68
+2026-08-08,P104,Noise Cancelling Headphones,Audio,5999,19,C1021,62
+2026-08-08,P105,Bluetooth Speaker,Audio,2999,16,C1029,64
+2026-08-08,P106,Webcam HD,Accessories,1899,20,C1038,81
+2026-08-08,P107,Desk Lamp,Office,999,45,C1029,108
+2026-08-08,P108,Power Bank,Mobile,1799,22,C1012,69
+2026-08-08,P109,Phone Case,Mobile,499,64,C1004,213
+2026-08-09,P100,Wireless Mouse,Accessories,799,32,C1039,178
+2026-08-09,P101,Mechanical Keyboard,Accessories,2499,30,C1036,60
+2026-08-09,P102,USB-C Hub,Accessories,1599,27,C1015,52
+2026-08-09,P103,Laptop Stand,Office,1299,39,C1019,113
+2026-08-09,P104,Noise Cancelling Headphones,Audio,5999,25,C1011,61
+2026-08-09,P105,Bluetooth Speaker,Audio,2999,18,C1014,100
+2026-08-09,P106,Webcam HD,Accessories,1899,24,C1013,69
+2026-08-09,P107,Desk Lamp,Office,999,49,C1027,151
+2026-08-09,P108,Power Bank,Mobile,1799,22,C1029,105
+2026-08-09,P109,Phone Case,Mobile,499,76,C1004,150
+2026-08-10,P100,Wireless Mouse,Accessories,799,50,C1011,107
+2026-08-10,P101,Mechanical Keyboard,Accessories,2499,30,C1015,77
+2026-08-10,P102,USB-C Hub,Accessories,1599,23,C1036,80
+2026-08-10,P103,Laptop Stand,Office,1299,31,C1017,88
+2026-08-10,P104,Noise Cancelling Headphones,Audio,5999,13,C1010,73
+2026-08-10,P105,Bluetooth Speaker,Audio,2999,28,C1015,87
+2026-08-10,P106,Webcam HD,Accessories,1899,16,C1025,49
+2026-08-10,P107,Desk Lamp,Office,999,21,C1035,100
+2026-08-10,P108,Power Bank,Mobile,1799,26,C1010,68
+2026-08-10,P109,Phone Case,Mobile,499,60,C1026,185
+2026-08-11,P100,Wireless Mouse,Accessories,799,25,C1008,173
+2026-08-11,P101,Mechanical Keyboard,Accessories,2499,27,C1034,72
+2026-08-11,P102,USB-C Hub,Accessories,1599,18,C1023,58
+2026-08-11,P103,Laptop Stand,Office,1299,15,C1006,120
+2026-08-11,P104,Noise Cancelling Headphones,Audio,5999,12,C1020,51
+2026-08-11,P105,Bluetooth Speaker,Audio,2999,23,C1006,80
+2026-08-11,P106,Webcam HD,Accessories,1899,14,C1015,69
+2026-08-11,P107,Desk Lamp,Office,999,33,C1038,100
+2026-08-11,P108,Power Bank,Mobile,1799,25,C1023,113
+2026-08-11,P109,Phone Case,Mobile,499,37,C1020,149
+2026-08-12,P100,Wireless Mouse,Accessories,799,24,C1029,126
+2026-08-12,P101,Mechanical Keyboard,Accessories,2499,25,C1024,79
+2026-08-12,P102,USB-C Hub,Accessories,1599,14,C1020,80
+2026-08-12,P103,Laptop Stand,Office,1299,37,C1030,116
+2026-08-12,P104,Noise Cancelling Headphones,Audio,5999,11,C1011,62
+2026-08-12,P105,Bluetooth Speaker,Audio,2999,24,C1003,76
+2026-08-12,P106,Webcam HD,Accessories,1899,12,C1027,75
+2026-08-12,P107,Desk Lamp,Office,999,37,C1037,87
+2026-08-12,P108,Power Bank,Mobile,1799,32,C1011,61
+2026-08-12,P109,Phone Case,Mobile,499,48,C1006,216
+2026-08-13,P100,Wireless Mouse,Accessories,799,35,C1031,175
+2026-08-13,P101,Mechanical Keyboard,Accessories,2499,21,C1007,75
+2026-08-13,P102,USB-C Hub,Accessories,1599,26,C1032,50
+2026-08-13,P103,Laptop Stand,Office,1299,23,C1021,104
+2026-08-13,P104,Noise Cancelling Headphones,Audio,5999,17,C1035,46
+2026-08-13,P105,Bluetooth Speaker,Audio,2999,13,C1013,65
+2026-08-13,P106,Webcam HD,Accessories,1899,17,C1009,73
+2026-08-13,P107,Desk Lamp,Office,999,46,C1035,133
+2026-08-13,P108,Power Bank,Mobile,1799,25,C1001,108
+2026-08-13,P109,Phone Case,Mobile,499,36,C1037,136
+2026-08-14,P100,Wireless Mouse,Accessories,799,33,C1006,165
+2026-08-14,P101,Mechanical Keyboard,Accessories,2499,35,C1017,69
+2026-08-14,P102,USB-C Hub,Accessories,1599,31,C1040,64
+2026-08-14,P103,Laptop Stand,Office,1299,32,C1008,87
+2026-08-14,P104,Noise Cancelling Headphones,Audio,5999,12,C1015,63
+2026-08-14,P105,Bluetooth Speaker,Audio,2999,19,C1033,93
+2026-08-14,P106,Webcam HD,Accessories,1899,27,C1016,50
+2026-08-14,P107,Desk Lamp,Office,999,22,C1007,103
+2026-08-14,P108,Power Bank,Mobile,1799,16,C1012,93
+2026-08-14,P109,Phone Case,Mobile,499,79,C1030,174
+2026-08-15,P100,Wireless Mouse,Accessories,799,56,C1021,112
+2026-08-15,P101,Mechanical Keyboard,Accessories,2499,46,C1027,84
+2026-08-15,P102,USB-C Hub,Accessories,1599,14,C1010,80
+2026-08-15,P103,Laptop Stand,Office,1299,45,C1010,113
+2026-08-15,P104,Noise Cancelling Headphones,Audio,5999,28,C1014,70
+2026-08-15,P105,Bluetooth Speaker,Audio,2999,21,C1022,64
+2026-08-15,P106,Webcam HD,Accessories,1899,31,C1001,50
+2026-08-15,P107,Desk Lamp,Office,999,54,C1032,114
+2026-08-15,P108,Power Bank,Mobile,1799,32,C1005,76
+2026-08-15,P109,Phone Case,Mobile,499,87,C1013,212
+2026-08-16,P100,Wireless Mouse,Accessories,799,66,C1024,99
+2026-08-16,P101,Mechanical Keyboard,Accessories,2499,39,C1023,65
+2026-08-16,P102,USB-C Hub,Accessories,1599,25,C1032,81
+2026-08-16,P103,Laptop Stand,Office,1299,41,C1009,117
+2026-08-16,P104,Noise Cancelling Headphones,Audio,5999,16,C1020,67
+2026-08-16,P105,Bluetooth Speaker,Audio,2999,37,C1038,91
+2026-08-16,P106,Webcam HD,Accessories,1899,17,C1033,65
+2026-08-16,P107,Desk Lamp,Office,999,33,C1035,151
+2026-08-16,P108,Power Bank,Mobile,1799,34,C1005,93
+2026-08-16,P109,Phone Case,Mobile,499,96,C1017,232
+2026-08-17,P100,Wireless Mouse,Accessories,799,46,C1016,175
+2026-08-17,P101,Mechanical Keyboard,Accessories,2499,17,C1016,87
+2026-08-17,P102,USB-C Hub,Accessories,1599,24,C1004,70
+2026-08-17,P103,Laptop Stand,Office,1299,24,C1022,120
+2026-08-17,P104,Noise Cancelling Headphones,Audio,5999,21,C1006,56
+2026-08-17,P105,Bluetooth Speaker,Audio,2999,16,C1022,87
+2026-08-17,P106,Webcam HD,Accessories,1899,22,C1028,90
+2026-08-17,P107,Desk Lamp,Office,999,39,C1032,77
+2026-08-17,P108,Power Bank,Mobile,1799,25,C1031,112
+2026-08-17,P109,Phone Case,Mobile,499,48,C1030,208
+2026-08-18,P100,Wireless Mouse,Accessories,799,26,C1006,146
+2026-08-18,P101,Mechanical Keyboard,Accessories,2499,21,C1040,110
+2026-08-18,P102,USB-C Hub,Accessories,1599,11,C1018,60
+2026-08-18,P103,Laptop Stand,Office,1299,20,C1027,127
+2026-08-18,P104,Noise Cancelling Headphones,Audio,5999,19,C1008,72
+2026-08-18,P105,Bluetooth Speaker,Audio,2999,16,C1025,85
+2026-08-18,P106,Webcam HD,Accessories,1899,25,C1018,56
+2026-08-18,P107,Desk Lamp,Office,999,27,C1011,89
+2026-08-18,P108,Power Bank,Mobile,1799,18,C1040,108
+2026-08-18,P109,Phone Case,Mobile,499,71,C1020,254
+2026-08-19,P100,Wireless Mouse,Accessories,799,41,C1033,185
+2026-08-19,P101,Mechanical Keyboard,Accessories,2499,33,C1011,96
+2026-08-19,P102,USB-C Hub,Accessories,1599,18,C1012,45
+2026-08-19,P103,Laptop Stand,Office,1299,19,C1037,84
+2026-08-19,P104,Noise Cancelling Headphones,Audio,5999,22,C1023,50
+2026-08-19,P105,Bluetooth Speaker,Audio,2999,27,C1033,104
+2026-08-19,P106,Webcam HD,Accessories,1899,24,C1017,53
+2026-08-19,P107,Desk Lamp,Office,999,39,C1040,83
+2026-08-19,P108,Power Bank,Mobile,1799,21,C1019,72
+2026-08-19,P109,Phone Case,Mobile,499,50,C1025,215
+2026-08-20,P100,Wireless Mouse,Accessories,799,59,C1004,171
+2026-08-20,P101,Mechanical Keyboard,Accessories,2499,37,C1024,89
+2026-08-20,P102,USB-C Hub,Accessories,1599,24,C1008,45
+2026-08-20,P103,Laptop Stand,Office,1299,32,C1033,97
+2026-08-20,P104,Noise Cancelling Headphones,Audio,5999,24,C1030,69
+2026-08-20,P105,Bluetooth Speaker,Audio,2999,14,C1009,69
+2026-08-20,P106,Webcam HD,Accessories,1899,12,C1018,91
+2026-08-20,P107,Desk Lamp,Office,999,24,C1037,123
+2026-08-20,P108,Power Bank,Mobile,1799,26,C1012,114
+2026-08-20,P109,Phone Case,Mobile,499,71,C1018,213
+2026-08-21,P100,Wireless Mouse,Accessories,799,51,C1035,117
+2026-08-21,P101,Mechanical Keyboard,Accessories,2499,17,C1027,92
+2026-08-21,P102,USB-C Hub,Accessories,1599,25,C1025,81
+2026-08-21,P103,Laptop Stand,Office,1299,32,C1024,133
+2026-08-21,P104,Noise Cancelling Headphones,Audio,5999,23,C1011,51
+2026-08-21,P105,Bluetooth Speaker,Audio,2999,33,C1004,78
+2026-08-21,P106,Webcam HD,Accessories,1899,29,C1009,63
+2026-08-21,P107,Desk Lamp,Office,999,27,C1004,140
+2026-08-21,P108,Power Bank,Mobile,1799,19,C1011,99
+2026-08-21,P109,Phone Case,Mobile,499,73,C1038,247
+2026-08-22,P100,Wireless Mouse,Accessories,799,44,C1024,131
+2026-08-22,P101,Mechanical Keyboard,Accessories,2499,48,C1020,71
+2026-08-22,P102,USB-C Hub,Accessories,1599,34,C1040,66
+2026-08-22,P103,Laptop Stand,Office,1299,32,C1007,97
+2026-08-22,P104,Noise Cancelling Headphones,Audio,5999,26,C1021,54
+2026-08-22,P105,Bluetooth Speaker,Audio,2999,26,C1018,103
+2026-08-22,P106,Webcam HD,Accessories,1899,17,C1040,91
+2026-08-22,P107,Desk Lamp,Office,999,42,C1011,142
+2026-08-22,P108,Power Bank,Mobile,1799,40,C1010,75
+2026-08-22,P109,Phone Case,Mobile,499,58,C1036,199
+2026-08-23,P100,Wireless Mouse,Accessories,799,66,C1005,134
+2026-08-23,P101,Mechanical Keyboard,Accessories,2499,25,C1026,81
+2026-08-23,P102,USB-C Hub,Accessories,1599,25,C1008,57
+2026-08-23,P103,Laptop Stand,Office,1299,28,C1003,119
+2026-08-23,P104,Noise Cancelling Headphones,Audio,5999,22,C1020,67
+2026-08-23,P105,Bluetooth Speaker,Audio,2999,24,C1017,101
+2026-08-23,P106,Webcam HD,Accessories,1899,36,C1036,89
+2026-08-23,P107,Desk Lamp,Office,999,26,C1027,124
+2026-08-23,P108,Power Bank,Mobile,1799,40,C1020,98
+2026-08-23,P109,Phone Case,Mobile,499,48,C1008,152
+2026-08-24,P100,Wireless Mouse,Accessories,799,48,C1022,132
+2026-08-24,P101,Mechanical Keyboard,Accessories,2499,22,C1022,89
+2026-08-24,P102,USB-C Hub,Accessories,1599,16,C1010,53
+2026-08-24,P103,Laptop Stand,Office,1299,28,C1019,102
+2026-08-24,P104,Noise Cancelling Headphones,Audio,5999,11,C1005,53
+2026-08-24,P105,Bluetooth Speaker,Audio,2999,29,C1001,56
+2026-08-24,P106,Webcam HD,Accessories,1899,25,C1037,79
+2026-08-24,P107,Desk Lamp,Office,999,30,C1018,94
+2026-08-24,P108,Power Bank,Mobile,1799,29,C1009,96
+2026-08-24,P109,Phone Case,Mobile,499,36,C1016,217
+2026-08-25,P100,Wireless Mouse,Accessories,799,39,C1003,180
+2026-08-25,P101,Mechanical Keyboard,Accessories,2499,30,C1025,109
+2026-08-25,P102,USB-C Hub,Accessories,1599,25,C1025,50
+2026-08-25,P103,Laptop Stand,Office,1299,31,C1005,86
+2026-08-25,P104,Noise Cancelling Headphones,Audio,5999,21,C1033,64
+2026-08-25,P105,Bluetooth Speaker,Audio,2999,17,C1015,63
+2026-08-25,P106,Webcam HD,Accessories,1899,16,C1037,64
+2026-08-25,P107,Desk Lamp,Office,999,46,C1024,139
+2026-08-25,P108,Power Bank,Mobile,1799,14,C1008,87
+2026-08-25,P109,Phone Case,Mobile,499,70,C1001,172
+2026-08-26,P100,Wireless Mouse,Accessories,799,40,C1029,167
+2026-08-26,P101,Mechanical Keyboard,Accessories,2499,21,C1029,63
+2026-08-26,P102,USB-C Hub,Accessories,1599,22,C1003,71
+2026-08-26,P103,Laptop Stand,Office,1299,18,C1008,123
+2026-08-26,P104,Noise Cancelling Headphones,Audio,5999,17,C1022,51
+2026-08-26,P105,Bluetooth Speaker,Audio,2999,33,C1015,80
+2026-08-26,P106,Webcam HD,Accessories,1899,16,C1014,85
+2026-08-26,P107,Desk Lamp,Office,999,28,C1037,152
+2026-08-26,P108,Power Bank,Mobile,1799,26,C1012,59
+2026-08-26,P109,Phone Case,Mobile,499,33,C1028,195
+2026-08-27,P100,Wireless Mouse,Accessories,799,38,C1018,185
+2026-08-27,P101,Mechanical Keyboard,Accessories,2499,33,C1026,95
+2026-08-27,P102,USB-C Hub,Accessories,1599,18,C1027,87
+2026-08-27,P103,Laptop Stand,Office,1299,23,C1004,126
+2026-08-27,P104,Noise Cancelling Headphones,Audio,5999,23,C1022,78
+2026-08-27,P105,Bluetooth Speaker,Audio,2999,27,C1031,65
+2026-08-27,P106,Webcam HD,Accessories,1899,23,C1040,67
+2026-08-27,P107,Desk Lamp,Office,999,34,C1013,103
+2026-08-27,P108,Power Bank,Mobile,1799,17,C1013,67
+2026-08-27,P109,Phone Case,Mobile,499,36,C1002,246
+2026-08-28,P100,Wireless Mouse,Accessories,799,44,C1013,113
+2026-08-28,P101,Mechanical Keyboard,Accessories,2499,36,C1019,72
+2026-08-28,P102,USB-C Hub,Accessories,1599,27,C1040,87
+2026-08-28,P103,Laptop Stand,Office,1299,39,C1014,71
+2026-08-28,P104,Noise Cancelling Headphones,Audio,5999,18,C1035,73
+2026-08-28,P105,Bluetooth Speaker,Audio,2999,20,C1011,71
+2026-08-28,P106,Webcam HD,Accessories,1899,25,C1023,62
+2026-08-28,P107,Desk Lamp,Office,999,31,C1012,80
+2026-08-28,P108,Power Bank,Mobile,1799,33,C1002,81
+2026-08-28,P109,Phone Case,Mobile,499,81,C1007,189
+2026-08-29,P100,Wireless Mouse,Accessories,799,53,C1024,176
+2026-08-29,P101,Mechanical Keyboard,Accessories,2499,49,C1006,88
+2026-08-29,P102,USB-C Hub,Accessories,1599,40,C1031,80
+2026-08-29,P103,Laptop Stand,Office,1299,60,C1007,133
+2026-08-29,P104,Noise Cancelling Headphones,Audio,5999,27,C1025,50
+2026-08-29,P105,Bluetooth Speaker,Audio,2999,25,C1002,65
+2026-08-29,P106,Webcam HD,Accessories,1899,43,C1018,56
+2026-08-29,P107,Desk Lamp,Office,999,71,C1028,153
+2026-08-29,P108,Power Bank,Mobile,1799,47,C1011,99
+2026-08-29,P109,Phone Case,Mobile,499,109,C1009,239
+2026-08-30,P100,Wireless Mouse,Accessories,799,40,C1038,105
+2026-08-30,P101,Mechanical Keyboard,Accessories,2499,38,C1006,61
+2026-08-30,P102,USB-C Hub,Accessories,1599,27,C1037,46
+2026-08-30,P103,Laptop Stand,Office,1299,43,C1021,72
+2026-08-30,P104,Noise Cancelling Headphones,Audio,5999,21,C1030,62
+2026-08-30,P105,Bluetooth Speaker,Audio,2999,32,C1014,86
+2026-08-30,P106,Webcam HD,Accessories,1899,16,C1023,57
+2026-08-30,P107,Desk Lamp,Office,999,43,C1038,85
+2026-08-30,P108,Power Bank,Mobile,1799,48,C1029,111
+2026-08-30,P109,Phone Case,Mobile,499,77,C1029,206
+2026-08-31,P100,Wireless Mouse,Accessories,799,55,C1004,149
+2026-08-31,P101,Mechanical Keyboard,Accessories,2499,37,C1016,70
+2026-08-31,P102,USB-C Hub,Accessories,1599,25,C1031,66
+2026-08-31,P103,Laptop Stand,Office,1299,35,C1032,75
+2026-08-31,P104,Noise Cancelling Headphones,Audio,5999,21,C1016,42
+2026-08-31,P105,Bluetooth Speaker,Audio,2999,31,C1001,99
+2026-08-31,P106,Webcam HD,Accessories,1899,20,C1015,84
+2026-08-31,P107,Desk Lamp,Office,999,41,C1003,134
+2026-08-31,P108,Power Bank,Mobile,1799,21,C1013,109
+2026-08-31,P109,Phone Case,Mobile,499,78,C1004,134
+2026-09-01,P100,Wireless Mouse,Accessories,799,42,C1015,184
+2026-09-01,P101,Mechanical Keyboard,Accessories,2499,36,C1036,62
+2026-09-01,P102,USB-C Hub,Accessories,1599,24,C1017,86
+2026-09-01,P103,Laptop Stand,Office,1299,19,C1031,99
+2026-09-01,P104,Noise Cancelling Headphones,Audio,5999,24,C1007,44
+2026-09-01,P105,Bluetooth Speaker,Audio,2999,18,C1011,94
+2026-09-01,P106,Webcam HD,Accessories,1899,25,C1033,62
+2026-09-01,P107,Desk Lamp,Office,999,47,C1001,146
+2026-09-01,P108,Power Bank,Mobile,1799,17,C1006,59
+2026-09-01,P109,Phone Case,Mobile,499,63,C1039,210
+2026-09-02,P100,Wireless Mouse,Accessories,799,61,C1004,146
+2026-09-02,P101,Mechanical Keyboard,Accessories,2499,35,C1030,96
+2026-09-02,P102,USB-C Hub,Accessories,1599,21,C1014,45
+2026-09-02,P103,Laptop Stand,Office,1299,20,C1030,123
+2026-09-02,P104,Noise Cancelling Headphones,Audio,5999,15,C1014,68
+2026-09-02,P105,Bluetooth Speaker,Audio,2999,31,C1040,104
+2026-09-02,P106,Webcam HD,Accessories,1899,35,C1023,73
+2026-09-02,P107,Desk Lamp,Office,999,46,C1016,84
+2026-09-02,P108,Power Bank,Mobile,1799,39,C1007,106
+2026-09-02,P109,Phone Case,Mobile,499,42,C1020,165
+2026-09-03,P100,Wireless Mouse,Accessories,799,53,C1039,109
+2026-09-03,P101,Mechanical Keyboard,Accessories,2499,29,C1013,80
+2026-09-03,P102,USB-C Hub,Accessories,1599,11,C1008,48
+2026-09-03,P103,Laptop Stand,Office,1299,35,C1014,119
+2026-09-03,P104,Noise Cancelling Headphones,Audio,5999,18,C1027,58
+2026-09-03,P105,Bluetooth Speaker,Audio,2999,33,C1014,82
+2026-09-03,P106,Webcam HD,Accessories,1899,29,C1006,82
+2026-09-03,P107,Desk Lamp,Office,999,48,C1002,142
+2026-09-03,P108,Power Bank,Mobile,1799,30,C1028,65
+2026-09-03,P109,Phone Case,Mobile,499,74,C1040,137
+2026-09-04,P100,Wireless Mouse,Accessories,799,64,C1009,136
+2026-09-04,P101,Mechanical Keyboard,Accessories,2499,23,C1023,78
+2026-09-04,P102,USB-C Hub,Accessories,1599,13,C1011,62
+2026-09-04,P103,Laptop Stand,Office,1299,31,C1031,133
+2026-09-04,P104,Noise Cancelling Headphones,Audio,5999,24,C1021,73
+2026-09-04,P105,Bluetooth Speaker,Audio,2999,20,C1027,65
+2026-09-04,P106,Webcam HD,Accessories,1899,24,C1035,63
+2026-09-04,P107,Desk Lamp,Office,999,50,C1022,148
+2026-09-04,P108,Power Bank,Mobile,1799,15,C1016,101
+2026-09-04,P109,Phone Case,Mobile,499,85,C1035,233
+2026-09-05,P100,Wireless Mouse,Accessories,799,37,C1021,98
+2026-09-05,P101,Mechanical Keyboard,Accessories,2499,31,C1005,80
+2026-09-05,P102,USB-C Hub,Accessories,1599,26,C1011,88
+2026-09-05,P103,Laptop Stand,Office,1299,28,C1035,71
+2026-09-05,P104,Noise Cancelling Headphones,Audio,5999,17,C1034,76
+2026-09-05,P105,Bluetooth Speaker,Audio,2999,34,C1006,103
+2026-09-05,P106,Webcam HD,Accessories,1899,30,C1001,57
+2026-09-05,P107,Desk Lamp,Office,999,51,C1008,110
+2026-09-05,P108,Power Bank,Mobile,1799,46,C1029,67
+2026-09-05,P109,Phone Case,Mobile,499,80,C1019,151
+2026-09-06,P100,Wireless Mouse,Accessories,799,61,C1017,118
+2026-09-06,P101,Mechanical Keyboard,Accessories,2499,44,C1014,65
+2026-09-06,P102,USB-C Hub,Accessories,1599,27,C1038,72
+2026-09-06,P103,Laptop Stand,Office,1299,24,C1005,72
+2026-09-06,P104,Noise Cancelling Headphones,Audio,5999,25,C1005,52
+2026-09-06,P105,Bluetooth Speaker,Audio,2999,33,C1005,80
+2026-09-06,P106,Webcam HD,Accessories,1899,22,C1008,54
+2026-09-06,P107,Desk Lamp,Office,999,49,C1033,127
+2026-09-06,P108,Power Bank,Mobile,1799,35,C1029,73
+2026-09-06,P109,Phone Case,Mobile,499,48,C1020,143
+2026-09-07,P100,Wireless Mouse,Accessories,799,34,C1012,161
+2026-09-07,P101,Mechanical Keyboard,Accessories,2499,23,C1007,103
+2026-09-07,P102,USB-C Hub,Accessories,1599,24,C1021,65
+2026-09-07,P103,Laptop Stand,Office,1299,35,C1015,69
+2026-09-07,P104,Noise Cancelling Headphones,Audio,5999,10,C1023,48
+2026-09-07,P105,Bluetooth Speaker,Audio,2999,24,C1001,67
+2026-09-07,P106,Webcam HD,Accessories,1899,25,C1006,50
+2026-09-07,P107,Desk Lamp,Office,999,21,C1038,128
+2026-09-07,P108,Power Bank,Mobile,1799,19,C1003,72
+2026-09-07,P109,Phone Case,Mobile,499,35,C1004,142
+2026-09-08,P100,Wireless Mouse,Accessories,799,34,C1037,156
+2026-09-08,P101,Mechanical Keyboard,Accessories,2499,26,C1019,63
+2026-09-08,P102,USB-C Hub,Accessories,1599,10,C1009,83
+2026-09-08,P103,Laptop Stand,Office,1299,38,C1035,91
+2026-09-08,P104,Noise Cancelling Headphones,Audio,5999,19,C1017,45
+2026-09-08,P105,Bluetooth Speaker,Audio,2999,19,C1008,61
+2026-09-08,P106,Webcam HD,Accessories,1899,26,C1011,90
+2026-09-08,P107,Desk Lamp,Office,999,25,C1002,107
+2026-09-08,P108,Power Bank,Mobile,1799,18,C1015,68
+2026-09-08,P109,Phone Case,Mobile,499,65,C1016,240
+2026-09-09,P100,Wireless Mouse,Accessories,799,46,C1001,139
+2026-09-09,P101,Mechanical Keyboard,Accessories,2499,15,C1024,99
+2026-09-09,P102,USB-C Hub,Accessories,1599,15,C1029,46
+2026-09-09,P103,Laptop Stand,Office,1299,29,C1036,74
+2026-09-09,P104,Noise Cancelling Headphones,Audio,5999,20,C1008,43
+2026-09-09,P105,Bluetooth Speaker,Audio,2999,22,C1015,100
+2026-09-09,P106,Webcam HD,Accessories,1899,19,C1013,50
+2026-09-09,P107,Desk Lamp,Office,999,20,C1031,105
+2026-09-09,P108,Power Bank,Mobile,1799,19,C1004,76
+2026-09-09,P109,Phone Case,Mobile,499,34,C1014,158
+2026-09-10,P100,Wireless Mouse,Accessories,799,44,C1025,177
+2026-09-10,P101,Mechanical Keyboard,Accessories,2499,17,C1034,116
+2026-09-10,P102,USB-C Hub,Accessories,1599,12,C1033,68
+2026-09-10,P103,Laptop Stand,Office,1299,39,C1006,81
+2026-09-10,P104,Noise Cancelling Headphones,Audio,5999,17,C1030,58
+2026-09-10,P105,Bluetooth Speaker,Audio,2999,29,C1029,59
+2026-09-10,P106,Webcam HD,Accessories,1899,23,C1018,52
+2026-09-10,P107,Desk Lamp,Office,999,39,C1008,105
+2026-09-10,P108,Power Bank,Mobile,1799,30,C1017,84
+2026-09-10,P109,Phone Case,Mobile,499,40,C1033,131
+2026-09-11,P100,Wireless Mouse,Accessories,799,61,C1003,156
+2026-09-11,P101,Mechanical Keyboard,Accessories,2499,29,C1032,74
+2026-09-11,P102,USB-C Hub,Accessories,1599,24,C1024,51
+2026-09-11,P103,Laptop Stand,Office,1299,22,C1021,121
+2026-09-11,P104,Noise Cancelling Headphones,Audio,5999,23,C1024,74
+2026-09-11,P105,Bluetooth Speaker,Audio,2999,28,C1015,86
+2026-09-11,P106,Webcam HD,Accessories,1899,13,C1006,69
+2026-09-11,P107,Desk Lamp,Office,999,35,C1019,143
+2026-09-11,P108,Power Bank,Mobile,1799,25,C1013,65
+2026-09-11,P109,Phone Case,Mobile,499,50,C1013,170
+2026-09-12,P100,Wireless Mouse,Accessories,799,72,C1011,133
+2026-09-12,P101,Mechanical Keyboard,Accessories,2499,18,C1015,116
+2026-09-12,P102,USB-C Hub,Accessories,1599,15,C1032,61
+2026-09-12,P103,Laptop Stand,Office,1299,42,C1014,81
+2026-09-12,P104,Noise Cancelling Headphones,Audio,5999,16,C1020,58
+2026-09-12,P105,Bluetooth Speaker,Audio,2999,41,C1015,76
+2026-09-12,P106,Webcam HD,Accessories,1899,37,C1003,83
+2026-09-12,P107,Desk Lamp,Office,999,38,C1002,104
+2026-09-12,P108,Power Bank,Mobile,1799,33,C1016,101
+2026-09-12,P109,Phone Case,Mobile,499,91,C1039,130
+2026-09-13,P100,Wireless Mouse,Accessories,799,62,C1031,152
+2026-09-13,P101,Mechanical Keyboard,Accessories,2499,32,C1009,102
+2026-09-13,P102,USB-C Hub,Accessories,1599,18,C1018,70
+2026-09-13,P103,Laptop Stand,Office,1299,48,C1009,77
+2026-09-13,P104,Noise Cancelling Headphones,Audio,5999,29,C1021,45
+2026-09-13,P105,Bluetooth Speaker,Audio,2999,36,C1015,55
+2026-09-13,P106,Webcam HD,Accessories,1899,22,C1029,51
+2026-09-13,P107,Desk Lamp,Office,999,50,C1037,97
+2026-09-13,P108,Power Bank,Mobile,1799,33,C1018,106
+2026-09-13,P109,Phone Case,Mobile,499,94,C1007,222
+2026-09-14,P100,Wireless Mouse,Accessories,799,22,C1007,181
+2026-09-14,P101,Mechanical Keyboard,Accessories,2499,33,C1005,114
+2026-09-14,P102,USB-C Hub,Accessories,1599,14,C1009,88
+2026-09-14,P103,Laptop Stand,Office,1299,24,C1020,103
+2026-09-14,P104,Noise Cancelling Headphones,Audio,5999,20,C1033,66
+2026-09-14,P105,Bluetooth Speaker,Audio,2999,22,C1032,75
+2026-09-14,P106,Webcam HD,Accessories,1899,21,C1024,75
+2026-09-14,P107,Desk Lamp,Office,999,40,C1013,152
+2026-09-14,P108,Power Bank,Mobile,1799,21,C1017,91
+2026-09-14,P109,Phone Case,Mobile,499,53,C1017,153
+2026-09-15,P100,Wireless Mouse,Accessories,799,42,C1034,134
+2026-09-15,P101,Mechanical Keyboard,Accessories,2499,18,C1004,109
+2026-09-15,P102,USB-C Hub,Accessories,1599,20,C1021,66
+2026-09-15,P103,Laptop Stand,Office,1299,33,C1031,68
+2026-09-15,P104,Noise Cancelling Headphones,Audio,5999,13,C1012,70
+2026-09-15,P105,Bluetooth Speaker,Audio,2999,20,C1015,69
+2026-09-15,P106,Webcam HD,Accessories,1899,27,C1014,51
+2026-09-15,P107,Desk Lamp,Office,999,31,C1009,108
+2026-09-15,P108,Power Bank,Mobile,1799,31,C1024,70
+2026-09-15,P109,Phone Case,Mobile,499,45,C1024,194
+2026-09-16,P100,Wireless Mouse,Accessories,799,26,C1014,116
+2026-09-16,P101,Mechanical Keyboard,Accessories,2499,33,C1033,66
+2026-09-16,P102,USB-C Hub,Accessories,1599,12,C1027,63
+2026-09-16,P103,Laptop Stand,Office,1299,32,C1030,99
+2026-09-16,P104,Noise Cancelling Headphones,Audio,5999,23,C1023,63
+2026-09-16,P105,Bluetooth Speaker,Audio,2999,19,C1021,92
+2026-09-16,P106,Webcam HD,Accessories,1899,14,C1002,70
+2026-09-16,P107,Desk Lamp,Office,999,37,C1026,138
+2026-09-16,P108,Power Bank,Mobile,1799,21,C1019,112
+2026-09-16,P109,Phone Case,Mobile,499,70,C1016,213
+2026-09-17,P100,Wireless Mouse,Accessories,799,47,C1013,186
+2026-09-17,P101,Mechanical Keyboard,Accessories,2499,22,C1017,111
+2026-09-17,P102,USB-C Hub,Accessories,1599,13,C1030,47
+2026-09-17,P103,Laptop Stand,Office,1299,37,C1038,126
+2026-09-17,P104,Noise Cancelling Headphones,Audio,5999,10,C1039,75
+2026-09-17,P105,Bluetooth Speaker,Audio,2999,23,C1018,90
+2026-09-17,P106,Webcam HD,Accessories,1899,11,C1012,85
+2026-09-17,P107,Desk Lamp,Office,999,20,C1012,96
+2026-09-17,P108,Power Bank,Mobile,1799,18,C1016,72
+2026-09-17,P109,Phone Case,Mobile,499,31,C1006,144
+2026-09-18,P100,Wireless Mouse,Accessories,799,61,C1022,109
+2026-09-18,P101,Mechanical Keyboard,Accessories,2499,17,C1019,80
+2026-09-18,P102,USB-C Hub,Accessories,1599,19,C1017,66
+2026-09-18,P103,Laptop Stand,Office,1299,26,C1017,130
+2026-09-18,P104,Noise Cancelling Headphones,Audio,5999,13,C1040,43
+2026-09-18,P105,Bluetooth Speaker,Audio,2999,14,C1009,103
+2026-09-18,P106,Webcam HD,Accessories,1899,27,C1022,82
+2026-09-18,P107,Desk Lamp,Office,999,35,C1039,88
+2026-09-18,P108,Power Bank,Mobile,1799,36,C1004,89
+2026-09-18,P109,Phone Case,Mobile,499,72,C1028,239
+2026-09-19,P100,Wireless Mouse,Accessories,799,44,C1015,163
+2026-09-19,P101,Mechanical Keyboard,Accessories,2499,26,C1031,64
+2026-09-19,P102,USB-C Hub,Accessories,1599,15,C1013,71
+2026-09-19,P103,Laptop Stand,Office,1299,44,C1030,98
+2026-09-19,P104,Noise Cancelling Headphones,Audio,5999,26,C1006,49
+2026-09-19,P105,Bluetooth Speaker,Audio,2999,35,C1028,77
+2026-09-19,P106,Webcam HD,Accessories,1899,17,C1038,56
+2026-09-19,P107,Desk Lamp,Office,999,30,C1030,142
+2026-09-19,P108,Power Bank,Mobile,1799,23,C1028,72
+2026-09-19,P109,Phone Case,Mobile,499,68,C1004,173
+2026-09-20,P100,Wireless Mouse,Accessories,799,27,C1015,163
+2026-09-20,P101,Mechanical Keyboard,Accessories,2499,29,C1030,72
+2026-09-20,P102,USB-C Hub,Accessories,1599,24,C1014,85
+2026-09-20,P103,Laptop Stand,Office,1299,47,C1017,134
+2026-09-20,P104,Noise Cancelling Headphones,Audio,5999,13,C1030,42
+2026-09-20,P105,Bluetooth Speaker,Audio,2999,32,C1020,95
+2026-09-20,P106,Webcam HD,Accessories,1899,21,C1020,72
+2026-09-20,P107,Desk Lamp,Office,999,22,C1006,124
+2026-09-20,P108,Power Bank,Mobile,1799,23,C1016,76
+2026-09-20,P109,Phone Case,Mobile,499,43,C1016,251
+2026-09-21,P100,Wireless Mouse,Accessories,799,34,C1008,113
+2026-09-21,P101,Mechanical Keyboard,Accessories,2499,28,C1024,103
+2026-09-21,P102,USB-C Hub,Accessories,1599,19,C1020,66
+2026-09-21,P103,Laptop Stand,Office,1299,31,C1005,74
+2026-09-21,P104,Noise Cancelling Headphones,Audio,5999,16,C1005,57
+2026-09-21,P105,Bluetooth Speaker,Audio,2999,15,C1015,87
+2026-09-21,P106,Webcam HD,Accessories,1899,17,C1027,87
+2026-09-21,P107,Desk Lamp,Office,999,35,C1029,106
+2026-09-21,P108,Power Bank,Mobile,1799,26,C1021,99
+2026-09-21,P109,Phone Case,Mobile,499,53,C1030,143
+2026-09-22,P100,Wireless Mouse,Accessories,799,22,C1009,182
+2026-09-22,P101,Mechanical Keyboard,Accessories,2499,13,C1036,118
+2026-09-22,P102,USB-C Hub,Accessories,1599,11,C1040,65
+2026-09-22,P103,Laptop Stand,Office,1299,15,C1022,111
+2026-09-22,P104,Noise Cancelling Headphones,Audio,5999,14,C1026,43
+2026-09-22,P105,Bluetooth Speaker,Audio,2999,23,C1004,90
+2026-09-22,P106,Webcam HD,Accessories,1899,10,C1009,90
+2026-09-22,P107,Desk Lamp,Office,999,30,C1021,131
+2026-09-22,P108,Power Bank,Mobile,1799,15,C1027,88
+2026-09-22,P109,Phone Case,Mobile,499,34,C1028,152
+2026-09-23,P100,Wireless Mouse,Accessories,799,44,C1016,129
+2026-09-23,P101,Mechanical Keyboard,Accessories,2499,23,C1006,93
+2026-09-23,P102,USB-C Hub,Accessories,1599,14,C1025,78
+2026-09-23,P103,Laptop Stand,Office,1299,26,C1039,132
+2026-09-23,P104,Noise Cancelling Headphones,Audio,5999,20,C1026,70
+2026-09-23,P105,Bluetooth Speaker,Audio,2999,25,C1009,91
+2026-09-23,P106,Webcam HD,Accessories,1899,23,C1032,90
+2026-09-23,P107,Desk Lamp,Office,999,20,C1022,140
+2026-09-23,P108,Power Bank,Mobile,1799,29,C1033,59
+2026-09-23,P109,Phone Case,Mobile,499,50,C1010,258
+2026-09-24,P100,Wireless Mouse,Accessories,799,54,C1021,153
+2026-09-24,P101,Mechanical Keyboard,Accessories,2499,17,C1022,104
+2026-09-24,P102,USB-C Hub,Accessories,1599,21,C1004,74
+2026-09-24,P103,Laptop Stand,Office,1299,35,C1037,125
+2026-09-24,P104,Noise Cancelling Headphones,Audio,5999,14,C1017,71
+2026-09-24,P105,Bluetooth Speaker,Audio,2999,23,C1021,99
+2026-09-24,P106,Webcam HD,Accessories,1899,14,C1018,62
+2026-09-24,P107,Desk Lamp,Office,999,43,C1040,100
+2026-09-24,P108,Power Bank,Mobile,1799,20,C1008,79
+2026-09-24,P109,Phone Case,Mobile,499,72,C1027,131
+2026-09-25,P100,Wireless Mouse,Accessories,799,50,C1037,168
+2026-09-25,P101,Mechanical Keyboard,Accessories,2499,31,C1004,74
+2026-09-25,P102,USB-C Hub,Accessories,1599,28,C1010,77
+2026-09-25,P103,Laptop Stand,Office,1299,37,C1021,84
+2026-09-25,P104,Noise Cancelling Headphones,Audio,5999,15,C1009,73
+2026-09-25,P105,Bluetooth Speaker,Audio,2999,17,C1004,89
+2026-09-25,P106,Webcam HD,Accessories,1899,17,C1021,87
+2026-09-25,P107,Desk Lamp,Office,999,44,C1035,88
+2026-09-25,P108,Power Bank,Mobile,1799,28,C1036,60
+2026-09-25,P109,Phone Case,Mobile,499,79,C1031,253
+2026-09-26,P100,Wireless Mouse,Accessories,799,58,C1014,169
+2026-09-26,P101,Mechanical Keyboard,Accessories,2499,35,C1005,81
+2026-09-26,P102,USB-C Hub,Accessories,1599,14,C1002,59
+2026-09-26,P103,Laptop Stand,Office,1299,45,C1024,69
+2026-09-26,P104,Noise Cancelling Headphones,Audio,5999,12,C1004,42
+2026-09-26,P105,Bluetooth Speaker,Audio,2999,19,C1026,76
+2026-09-26,P106,Webcam HD,Accessories,1899,19,C1025,70
+2026-09-26,P107,Desk Lamp,Office,999,31,C1037,126
+2026-09-26,P108,Power Bank,Mobile,1799,27,C1020,109
+2026-09-26,P109,Phone Case,Mobile,499,77,C1007,175
+2026-09-27,P100,Wireless Mouse,Accessories,799,47,C1034,189
+2026-09-27,P101,Mechanical Keyboard,Accessories,2499,17,C1001,86
+2026-09-27,P102,USB-C Hub,Accessories,1599,28,C1014,74
+2026-09-27,P103,Laptop Stand,Office,1299,23,C1008,104
+2026-09-27,P104,Noise Cancelling Headphones,Audio,5999,21,C1030,62
+2026-09-27,P105,Bluetooth Speaker,Audio,2999,26,C1009,75
+2026-09-27,P106,Webcam HD,Accessories,1899,20,C1034,51
+2026-09-27,P107,Desk Lamp,Office,999,29,C1023,117
+2026-09-27,P108,Power Bank,Mobile,1799,17,C1039,103
+2026-09-27,P109,Phone Case,Mobile,499,76,C1028,158
+2026-09-28,P100,Wireless Mouse,Accessories,799,23,C1005,155
+2026-09-28,P101,Mechanical Keyboard,Accessories,2499,29,C1020,72
+2026-09-28,P102,USB-C Hub,Accessories,1599,23,C1012,68
+2026-09-28,P103,Laptop Stand,Office,1299,23,C1001,118
+2026-09-28,P104,Noise Cancelling Headphones,Audio,5999,16,C1025,45
+2026-09-28,P105,Bluetooth Speaker,Audio,2999,26,C1011,81
+2026-09-28,P106,Webcam HD,Accessories,1899,12,C1036,90
+2026-09-28,P107,Desk Lamp,Office,999,36,C1037,86
+2026-09-28,P108,Power Bank,Mobile,1799,17,C1014,110
+2026-09-28,P109,Phone Case,Mobile,499,45,C1014,247
+2026-09-29,P100,Wireless Mouse,Accessories,799,34,C1036,183
+2026-09-29,P101,Mechanical Keyboard,Accessories,2499,16,C1029,69
+2026-09-29,P102,USB-C Hub,Accessories,1599,20,C1039,64
+2026-09-29,P103,Laptop Stand,Office,1299,28,C1015,108
+2026-09-29,P104,Noise Cancelling Headphones,Audio,5999,13,C1030,60
+2026-09-29,P105,Bluetooth Speaker,Audio,2999,11,C1022,93
+2026-09-29,P106,Webcam HD,Accessories,1899,23,C1016,55
+2026-09-29,P107,Desk Lamp,Office,999,28,C1012,95
+2026-09-29,P108,Power Bank,Mobile,1799,15,C1013,67
+2026-09-29,P109,Phone Case,Mobile,499,65,C1008,223
+2026-09-30,P100,Wireless Mouse,Accessories,799,43,C1014,162
+2026-09-30,P101,Mechanical Keyboard,Accessories,2499,18,C1033,110
+2026-09-30,P102,USB-C Hub,Accessories,1599,10,C1029,87
+2026-09-30,P103,Laptop Stand,Office,1299,33,C1036,126
+2026-09-30,P104,Noise Cancelling Headphones,Audio,5999,17,C1030,45
+2026-09-30,P105,Bluetooth Speaker,Audio,2999,14,C1035,63
+2026-09-30,P106,Webcam HD,Accessories,1899,15,C1016,83
+2026-09-30,P107,Desk Lamp,Office,999,42,C1027,95
+2026-09-30,P108,Power Bank,Mobile,1799,19,C1020,82
+2026-09-30,P109,Phone Case,Mobile,499,34,C1006,158
+2026-10-01,P100,Wireless Mouse,Accessories,799,24,C1008,151
+2026-10-01,P101,Mechanical Keyboard,Accessories,2499,23,C1031,71
+2026-10-01,P102,USB-C Hub,Accessories,1599,22,C1038,79
+2026-10-01,P103,Laptop Stand,Office,1299,25,C1031,131
+2026-10-01,P104,Noise Cancelling Headphones,Audio,5999,15,C1033,58
+2026-10-01,P105,Bluetooth Speaker,Audio,2999,13,C1005,61
+2026-10-01,P106,Webcam HD,Accessories,1899,16,C1005,65
+2026-10-01,P107,Desk Lamp,Office,999,27,C1028,104
+2026-10-01,P108,Power Bank,Mobile,1799,18,C1026,98
+2026-10-01,P109,Phone Case,Mobile,499,55,C1037,190
+2026-10-02,P100,Wireless Mouse,Accessories,799,40,C1031,98
+2026-10-02,P101,Mechanical Keyboard,Accessories,2499,21,C1026,97
+2026-10-02,P102,USB-C Hub,Accessories,1599,26,C1011,72
+2026-10-02,P103,Laptop Stand,Office,1299,29,C1001,112
+2026-10-02,P104,Noise Cancelling Headphones,Audio,5999,23,C1024,45
+2026-10-02,P105,Bluetooth Speaker,Audio,2999,25,C1021,73
+2026-10-02,P106,Webcam HD,Accessories,1899,21,C1022,79
+2026-10-02,P107,Desk Lamp,Office,999,40,C1036,89
+2026-10-02,P108,Power Bank,Mobile,1799,21,C1008,67
+2026-10-02,P109,Phone Case,Mobile,499,35,C1002,247
+2026-10-03,P100,Wireless Mouse,Accessories,799,49,C1029,171
+2026-10-03,P101,Mechanical Keyboard,Accessories,2499,28,C1002,81
+2026-10-03,P102,USB-C Hub,Accessories,1599,18,C1021,68
+2026-10-03,P103,Laptop Stand,Office,1299,35,C1022,99
+2026-10-03,P104,Noise Cancelling Headphones,Audio,5999,14,C1037,64
+2026-10-03,P105,Bluetooth Speaker,Audio,2999,31,C1024,66
+2026-10-03,P106,Webcam HD,Accessories,1899,28,C1035,50
+2026-10-03,P107,Desk Lamp,Office,999,20,C1019,146
+2026-10-03,P108,Power Bank,Mobile,1799,34,C1025,66
+2026-10-03,P109,Phone Case,Mobile,499,34,C1004,155
+2026-10-04,P100,Wireless Mouse,Accessories,799,50,C1020,108
+2026-10-04,P101,Mechanical Keyboard,Accessories,2499,20,C1017,63
+2026-10-04,P102,USB-C Hub,Accessories,1599,13,C1007,88
+2026-10-04,P103,Laptop Stand,Office,1299,41,C1006,104
+2026-10-04,P104,Noise Cancelling Headphones,Audio,5999,22,C1013,45
+2026-10-04,P105,Bluetooth Speaker,Audio,2999,13,C1025,78
+2026-10-04,P106,Webcam HD,Accessories,1899,19,C1012,77
+2026-10-04,P107,Desk Lamp,Office,999,37,C1003,153
+2026-10-04,P108,Power Bank,Mobile,1799,16,C1003,66
+2026-10-04,P109,Phone Case,Mobile,499,32,C1011,222
+2026-10-05,P100,Wireless Mouse,Accessories,799,20,C1012,110
+2026-10-05,P101,Mechanical Keyboard,Accessories,2499,14,C1013,81
+2026-10-05,P102,USB-C Hub,Accessories,1599,13,C1028,89
+2026-10-05,P103,Laptop Stand,Office,1299,19,C1029,95
+2026-10-05,P104,Noise Cancelling Headphones,Audio,5999,10,C1012,78
+2026-10-05,P105,Bluetooth Speaker,Audio,2999,12,C1023,99
+2026-10-05,P106,Webcam HD,Accessories,1899,17,C1029,78
+2026-10-05,P107,Desk Lamp,Office,999,26,C1003,130
+2026-10-05,P108,Power Bank,Mobile,1799,24,C1037,88
+2026-10-05,P109,Phone Case,Mobile,499,24,C1002,187
+2026-10-06,P100,Wireless Mouse,Accessories,799,35,C1026,127
+2026-10-06,P101,Mechanical Keyboard,Accessories,2499,20,C1004,68
+2026-10-06,P102,USB-C Hub,Accessories,1599,21,C1010,70
+2026-10-06,P103,Laptop Stand,Office,1299,23,C1011,113
+2026-10-06,P104,Noise Cancelling Headphones,Audio,5999,16,C1033,40
+2026-10-06,P105,Bluetooth Speaker,Audio,2999,25,C1024,96
+2026-10-06,P106,Webcam HD,Accessories,1899,15,C1037,79
+2026-10-06,P107,Desk Lamp,Office,999,23,C1022,128
+2026-10-06,P108,Power Bank,Mobile,1799,27,C1040,112
+2026-10-06,P109,Phone Case,Mobile,499,30,C1013,246
+2026-10-07,P100,Wireless Mouse,Accessories,799,27,C1040,180
+2026-10-07,P101,Mechanical Keyboard,Accessories,2499,27,C1021,119
+2026-10-07,P102,USB-C Hub,Accessories,1599,13,C1017,79
+2026-10-07,P103,Laptop Stand,Office,1299,30,C1037,90
+2026-10-07,P104,Noise Cancelling Headphones,Audio,5999,19,C1018,59
+2026-10-07,P105,Bluetooth Speaker,Audio,2999,25,C1032,104
+2026-10-07,P106,Webcam HD,Accessories,1899,23,C1010,83
+2026-10-07,P107,Desk Lamp,Office,999,26,C1027,83
+2026-10-07,P108,Power Bank,Mobile,1799,28,C1028,91
+2026-10-07,P109,Phone Case,Mobile,499,55,C1038,130
+2026-10-08,P100,Wireless Mouse,Accessories,799,43,C1018,104
+2026-10-08,P101,Mechanical Keyboard,Accessories,2499,29,C1028,96
+2026-10-08,P102,USB-C Hub,Accessories,1599,15,C1017,77
+2026-10-08,P103,Laptop Stand,Office,1299,15,C1024,97
+2026-10-08,P104,Noise Cancelling Headphones,Audio,5999,9,C1020,59
+2026-10-08,P105,Bluetooth Speaker,Audio,2999,14,C1018,86
+2026-10-08,P106,Webcam HD,Accessories,1899,21,C1033,57
+2026-10-08,P107,Desk Lamp,Office,999,39,C1028,154
+2026-10-08,P108,Power Bank,Mobile,1799,26,C1018,97
+2026-10-08,P109,Phone Case,Mobile,499,45,C1026,242
+2026-10-09,P100,Wireless Mouse,Accessories,799,43,C1008,161
+2026-10-09,P101,Mechanical Keyboard,Accessories,2499,14,C1019,110
+2026-10-09,P102,USB-C Hub,Accessories,1599,10,C1035,89
+2026-10-09,P103,Laptop Stand,Office,1299,32,C1023,130
+2026-10-09,P104,Noise Cancelling Headphones,Audio,5999,17,C1016,55
+2026-10-09,P105,Bluetooth Speaker,Audio,2999,16,C1029,79
+2026-10-09,P106,Webcam HD,Accessories,1899,18,C1003,51
+2026-10-09,P107,Desk Lamp,Office,999,22,C1006,124
+2026-10-09,P108,Power Bank,Mobile,1799,27,C1039,77
+2026-10-09,P109,Phone Case,Mobile,499,36,C1008,147
+2026-10-10,P100,Wireless Mouse,Accessories,799,48,C1017,174
+2026-10-10,P101,Mechanical Keyboard,Accessories,2499,23,C1015,69
+2026-10-10,P102,USB-C Hub,Accessories,1599,20,C1017,80
+2026-10-10,P103,Laptop Stand,Office,1299,24,C1011,71
+2026-10-10,P104,Noise Cancelling Headphones,Audio,5999,24,C1005,64
+2026-10-10,P105,Bluetooth Speaker,Audio,2999,26,C1029,80
+2026-10-10,P106,Webcam HD,Accessories,1899,16,C1031,67
+2026-10-10,P107,Desk Lamp,Office,999,44,C1025,130
+2026-10-10,P108,Power Bank,Mobile,1799,19,C1034,84
+2026-10-10,P109,Phone Case,Mobile,499,82,C1011,250
+2026-10-11,P100,Wireless Mouse,Accessories,799,41,C1021,106
+2026-10-11,P101,Mechanical Keyboard,Accessories,2499,23,C1009,70
+2026-10-11,P102,USB-C Hub,Accessories,1599,26,C1018,66
+2026-10-11,P103,Laptop Stand,Office,1299,30,C1032,74
+2026-10-11,P104,Noise Cancelling Headphones,Audio,5999,21,C1011,63
+2026-10-11,P105,Bluetooth Speaker,Audio,2999,19,C1025,57
+2026-10-11,P106,Webcam HD,Accessories,1899,28,C1009,94
+2026-10-11,P107,Desk Lamp,Office,999,32,C1022,99
+2026-10-11,P108,Power Bank,Mobile,1799,22,C1021,88
+2026-10-11,P109,Phone Case,Mobile,499,68,C1030,171
+2026-10-12,P100,Wireless Mouse,Accessories,799,20,C1024,122
+2026-10-12,P101,Mechanical Keyboard,Accessories,2499,20,C1024,116
+2026-10-12,P102,USB-C Hub,Accessories,1599,14,C1013,86
+2026-10-12,P103,Laptop Stand,Office,1299,22,C1012,125
+2026-10-12,P104,Noise Cancelling Headphones,Audio,5999,11,C1020,64
+2026-10-12,P105,Bluetooth Speaker,Audio,2999,14,C1038,89
+2026-10-12,P106,Webcam HD,Accessories,1899,9,C1036,47
+2026-10-12,P107,Desk Lamp,Office,999,15,C1008,117
+2026-10-12,P108,Power Bank,Mobile,1799,22,C1008,71
+2026-10-12,P109,Phone Case,Mobile,499,48,C1013,250
